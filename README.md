@@ -1,4 +1,4 @@
 # sfranzyshen.org
-Scotty Franzyshen
+Scotty Franzyshen Open Source Projects
 
 [Github](https://github.com/sfranzyshen/)
