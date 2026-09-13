@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: "Navigating America from the Bottom Up"
@@ -68,4 +67,3 @@ And hopefully, there will be some useful ones too.
 So welcome to **Navigating America from the Bottom Up**.
 
 This is where I start documenting the journey.
-```
