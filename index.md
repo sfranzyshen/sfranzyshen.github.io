@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 ---
@@ -43,4 +42,4 @@ I'm Scotty Franzyshen.
 I've spent much of my life building things, fixing things, working with technology, helping people, and participating in my community. This blog is another way of doing that—by documenting what I see from a perspective that isn't always represented.
 
 [More about me →]({{ "/about/" | relative_url }})
-```
+
