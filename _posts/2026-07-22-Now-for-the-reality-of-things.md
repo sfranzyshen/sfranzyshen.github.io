@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Before You Call Them Names"
+title: "Now for the reality of things … I am actually doing great!"
 ---
 
 Now for the reality of things … I am actually doing great!
