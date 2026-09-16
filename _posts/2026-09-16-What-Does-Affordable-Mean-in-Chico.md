@@ -19,4 +19,4 @@ The numbers make one thing pretty clear:
 
 *Source: HUD 2026 Chico MSA Income Limits and Fair Market Rents, effective May 1, 2026.*
 
-![2026 Chico MSA Income Limits and Fair Market Rents](images/2026-Chico-MSA-Income-Limits-pdf-09-16-2026_12_27_PM.png)
+![2026 Chico MSA Income Limits and Fair Market Rents](https://sfranzyshen.org/images/2026-Chico-MSA-Income-Limits-pdf-09-16-2026_12_27_PM.png)
