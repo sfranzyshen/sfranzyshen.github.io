@@ -1,9 +1,9 @@
 <!-- _includes/head-custom-google-analytics.html -->
-<script async src="https://googletagmanager.com"></script>
+<script async src="https://googletagmanager.com{{ site.google_analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-JNYKS671WD');
+  gtag('config', '{{ site.google_analytics }}');
 </script>
