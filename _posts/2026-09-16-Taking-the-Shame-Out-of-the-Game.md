@@ -5,27 +5,7 @@ title: "Taking the Shame Out of the Game"
 
 # Taking the Shame Out of the Game
 
-So you're struggling with an addiction.
-
-Maybe it's drugs.
-
-Maybe it's alcohol.
-
-Maybe it's something else entirely.
-
-Maybe you want to stop.
-
-Maybe you don't.
-
-Maybe you're ready for help.
-
-Maybe you're not.
-
-Maybe you've tried to stop before and couldn't.
-
-**Either way, you are still a human being.**
-
-And you still deserve to be treated with dignity and respect.
+So you're struggling with an addiction. Maybe it's drugs. Maybe it's alcohol. Maybe it's something else entirely. Maybe you want to stop. Maybe you don't. Maybe you're ready for help. Maybe you're not. Maybe you've tried to stop before and couldn't. **Either way, you are still a human being.** And you still deserve to be treated with dignity and respect.
 
 ## Let's Take the Shame Out of the Game
 
