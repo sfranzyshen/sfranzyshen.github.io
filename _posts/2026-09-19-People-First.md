@@ -1,3 +1,8 @@
+---
+layout: default
+title: "People First"
+---
+
 One of the smallest things we can do for someone experiencing homelessness is also one of the biggest: **acknowledge them.**
 
 Homeless people are people first and foremost. They have feelings, thoughts, hopes, fears, histories, and dreams just like everyone else. Losing a place to live does not make someone less human.
