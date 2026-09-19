@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Now for the reality of things … I am actually doing great!"
+date: 2026-07-22
 ---
 
 Now for the reality of things … I am actually doing great!
