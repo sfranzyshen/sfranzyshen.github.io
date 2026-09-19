@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "At the "Facility" there is a great room with two wings ..."
+title: "At the Facility there is a great room with two wings ..."
 date: 2026-08-13
 ---
 
