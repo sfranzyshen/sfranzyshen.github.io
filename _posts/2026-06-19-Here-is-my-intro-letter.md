@@ -15,7 +15,7 @@ Dear Friend,
 
 My name is Scotty Franzyshen, and I am writing in the hope that this introduction might reach someone who believes, as I do, that a strong community is built one relationship at a time.
 
-I have called Chico home for the past fifteen years. During that time, I have volunteered with local nonprofit and community organizations including Chico Fab Lab and Maker Radio, both part of the emerging Orange Street Arts District. 
+I have called Chico home for the past fifteen years. During that time, I have volunteered with local nonprofit and community organizations including in the emerging Orange Street Arts District. 
 Through that work, I have supported community arts, maker education, facility improvements, computers, electronics, fabrication, equipment maintenance, and educational projects.
 
 Today I am looking for the next stable step in my life.
