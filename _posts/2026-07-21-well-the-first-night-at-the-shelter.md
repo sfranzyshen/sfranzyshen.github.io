@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "... well the first night at the shelter was utterly awful ..."
+date: 2026-07-21
 ---
 
 ... well the first night at the shelter was utterly awful ... the entire place smells like dirty feet, even the cafeteria! I was only there for 5 minutes before the first lockdown happened. 
