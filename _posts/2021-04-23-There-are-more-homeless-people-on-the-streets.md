@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "There are more homeless people on the streets"
+date: 2021-04-23
 ---
 
 There are more homeless people on the streets right now in chico ca than there are beds available at local shelters. 
