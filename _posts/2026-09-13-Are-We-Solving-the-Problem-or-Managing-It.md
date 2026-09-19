@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Homelessness: Are We Solving the Problem or Managing It?"
+date: 2026-09-13
 ---
-
-# Homelessness: Are We Solving the Problem or Managing It?
 
 I want to understand whether the way we fund and measure homelessness services creates incentives to **manage homelessness rather than eliminate it.** 🤔
 
