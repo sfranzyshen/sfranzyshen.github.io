@@ -14,13 +14,13 @@ How do we know that the services we're funding are actually moving people toward
 
 I'm not here to accuse anybody. I'm trying to understand something I couldn't understand when I was homeless: 
 
-**where does the money go, **
+**where does the money go,**
 
-**what services does it buy, **
+**what services does it buy,**
 
-**how many people actually get housed, **
+**how many people actually get housed,**
 
-**and how many stay housed? **
+**and how many stay housed?**
 
 I'm asking the system to demonstrate that the money, services, programs, and facilities ultimately produce the outcome the person experiencing homelessness needs: a place to live that they can actually keep. 
 
