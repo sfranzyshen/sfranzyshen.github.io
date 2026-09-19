@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Navigating America from the Bottom Up"
 date: 2026-09-13
 ---
