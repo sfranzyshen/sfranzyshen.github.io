@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My homelessness is ending"
-date: 2026-09-19
+date: 2026-08-19
 ---
 
 My homelessness is ending. I will be taking rent on a room full-time in September, in a house here in Chico.
