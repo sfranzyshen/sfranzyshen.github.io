@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "People First"
+title: "I want to understand "
 date: 2026-09-12
 ---
 
