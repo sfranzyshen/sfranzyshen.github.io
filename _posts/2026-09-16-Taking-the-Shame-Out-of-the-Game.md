@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Taking the Shame Out of the Game"
+date: 2026-09-16
 ---
 
 So you're struggling with an addiction. Maybe it's drugs. Maybe it's alcohol. Maybe it's something else entirely. Maybe you want to stop. Maybe you don't. Maybe you're ready for help. Maybe you're not. Maybe you've tried to stop before and couldn't. **Either way, you are still a human being.** And you still deserve to be treated with dignity and respect.
