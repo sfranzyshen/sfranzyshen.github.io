@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "People First"
+date: 2026-09-19
 ---
 
 One of the smallest things we can do for someone experiencing homelessness is also one of the biggest: **acknowledge them.**
