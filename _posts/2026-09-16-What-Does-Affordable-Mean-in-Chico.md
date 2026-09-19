@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "What Does “Affordable” Mean in Chico?"
+date: 2026-09-16
 ---
 
 HUD's 2026 numbers for the Chico MSA tell an interesting story.
