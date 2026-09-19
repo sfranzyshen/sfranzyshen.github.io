@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Here is my intro letter … please provide constructive criticisms …"
+2026-06-19
 ---
 
 Here is my intro letter … please provide constructive criticisms … 
