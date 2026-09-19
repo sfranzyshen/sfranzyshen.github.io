@@ -3,8 +3,6 @@ layout: default
 title: "What Does “Affordable” Mean in Chico?"
 ---
 
-# What Does “Affordable” Mean in Chico?
-
 HUD's 2026 numbers for the Chico MSA tell an interesting story.
 
 For a single person, **30% AMI — considered "Extremely Low Income" — is $20,450 a year**, or about **$1,704 a month**.
