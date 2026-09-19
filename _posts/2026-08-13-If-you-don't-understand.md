@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "If you don't understand ..."
-date: 2026-09-19
+date: 2026-08-13
 ---
 
 If you don't understand ... Spend a day in the shoes of a homeless person ... well maybe not 😂
