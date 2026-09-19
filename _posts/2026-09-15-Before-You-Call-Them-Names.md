@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Before You Call Them Names"
+date: 2026-09-15
 ---
 
 Before you call someone **“vermin,” “a rodent,” “a dirtbag,”** or whatever other degrading name you can think of, please stop for a moment and remember: **you are talking about another human being.**
