@@ -4,17 +4,7 @@ title: "Navigating America from the Bottom Up"
 date: 2026-09-13
 ---
 
-## Welcome
-
-My name is **Scotty Franzyshen**, and this is my new blog.
-
-For more than a decade, I have been navigating life from a place that most people don't really get to see—the bottom.
-
-I've experienced homelessness, unemployment, trying to find affordable housing, working with social services, looking for work that actually fits my life, and trying to make sense of the many different systems that are supposed to help people get back on their feet.
-
-Along the way, I've learned a lot.
-
-I've also discovered that things can look very different from the bottom than they do from the top.
+My name is **Scotty Franzyshen**, and this is my new blog. For more than a decade, I have been navigating life from a place that most people don't really get to see—the bottom. I've experienced homelessness, unemployment, trying to find affordable housing, working with social services, looking for work that actually fits my life, and trying to make sense of the many different systems that are supposed to help people get back on their feet. Along the way, I've learned a lot. I've also discovered that things can look very different from the bottom than they do from the top.
 
 ## Why I'm Writing This
 
