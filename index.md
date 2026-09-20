@@ -37,6 +37,10 @@ This isn't intended to be a formal organization or an official source of informa
 
 I'm Scotty Franzyshen.
 
+[info@sfranzyshen.org]("mailto:name@example.com")
+
+[+1 530-924-4306]("tel:+15309244306")
+
 **Building • Fixing • Serving**
 
 I've spent much of my life building things, fixing things, working with technology, helping people, and participating in my community. This blog is another way of doing that—by documenting what I see from a perspective that isn't always represented.
