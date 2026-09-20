@@ -37,9 +37,9 @@ This isn't intended to be a formal organization or an official source of informa
 
 I'm Scotty Franzyshen.
 
-[info@sfranzyshen.org]("mailto:name@example.com")
+[info@sfranzyshen.org]({{ "mailto:info@sfranzyshen.org" | absolute_url }})
 
-[+1 530-924-4306]("tel:+15309244306")
+[+1 530-924-4306]({{ "tel:+15309244306" | absolute_url }})
 
 **Building • Fixing • Serving**
 
