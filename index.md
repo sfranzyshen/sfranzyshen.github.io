@@ -10,6 +10,11 @@ After spending many years navigating homelessness, housing, employment, and the 
 
 This isn't intended to be a formal organization or an official source of information. It is simply my perspective, based on what I have experienced and what I continue to learn along the way.
 
+
+Email : [info@sfranzyshen.org]({{ "mailto:info@sfranzyshen.org" | absolute_url }})
+
+Phone : [+1 530-924-4306]({{ "tel:+15309244306" | absolute_url }})
+
 ---
 
 ## Recent Posts
@@ -36,10 +41,6 @@ This isn't intended to be a formal organization or an official source of informa
 ## About Me
 
 I'm Scotty Franzyshen.
-
-[info@sfranzyshen.org]({{ "mailto:info@sfranzyshen.org" | absolute_url }})
-
-[+1 530-924-4306]({{ "tel:+15309244306" | absolute_url }})
 
 **Building • Fixing • Serving**
 
