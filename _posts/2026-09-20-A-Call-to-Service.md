@@ -1,3 +1,9 @@
+---
+layout: default
+title: "A Call to Service"
+date: 2026-09-20
+---
+
 We all love to complain about the problems in our communities.
 
 Homelessness.
