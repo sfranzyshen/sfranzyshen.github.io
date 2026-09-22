@@ -44,6 +44,6 @@ I'm not looking to step on anyone's toes or replace the services that already ex
 
 **If I can be useful, I'm here.**
 
-If you need my help, reach out.
+**If you need my help, reach out.**
 
 **If I can't help ... maybe I know who can.**
