@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: default
 title: "Community Support Specialist"
 date: 2026-09-22
 categories: [Homelessness, Advocacy, Community]
 tags: [homelessness, advocacy, Chico, community, housing, problem solving]
 ---
-
-# Community Support Specialist
 
 **Homeless advocacy is what I do. I help solve problems.**
 
