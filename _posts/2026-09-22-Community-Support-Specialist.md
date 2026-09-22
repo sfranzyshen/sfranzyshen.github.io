@@ -9,7 +9,7 @@ tags: [homelessness, advocacy, Chico, community, housing, problem solving]
 **Homeless advocacy is what I do. I help solve problems.**
 
 <audio controls>
-  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-22-Community-Support-Specialist.mp3" type="audio/mpeg">
+  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-22-Community-Support-Specialist.m4a" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
