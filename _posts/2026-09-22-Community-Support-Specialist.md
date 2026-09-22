@@ -38,7 +38,7 @@ I'd like to make connections with local providers, case workers, counselors, and
 
 I'd also like to build relationships and cooperation with other organizations working toward the same goals.
 
-I am willing to volunteer directly with organizations that are doing this work, such as Safe Space and the [North State Shelter Team](https://www.facebook.com/NSSTchico).
+I am willing to volunteer directly with organizations that are doing this work, such as [Safe Space Chico](https://www.facebook.com/chicosafespace) and the [North State Shelter Team](https://www.facebook.com/NSSTchico).
 
 I'm not looking to step on anyone's toes or replace the services that already exist. I'd like to become another resource ... someone who can help fill gaps, make connections, solve problems, and help people navigate what can sometimes be an overwhelming system.
 
