@@ -8,6 +8,11 @@ tags: [homelessness, advocacy, Chico, community, housing, problem solving]
 
 **Homeless advocacy is what I do. I help solve problems.**
 
+<audio controls>
+  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-22-Community-Support-Specialist.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 After a long period of being unemployed and unhoused, I have first-hand experience navigating the system. I have learned things that have helped me become employed and housed here in Chico. I still have work to do on myself, but I feel I could be of help and a resource to others who are now in the same boat.
 
 I have experienced many of the same situations that homeless people in Chico have experienced or are experiencing. Along the way, I have made many connections, both professionally and personally, throughout Chico's homeless ecosystem. I have also become familiar with most, if not all, of the organizations in Chico that provide services or assistance to lower-income and homeless community members.
