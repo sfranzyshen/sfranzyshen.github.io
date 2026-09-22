@@ -6,6 +6,11 @@ date: 2026-09-21
 
 I've been thinking about how much I use AI lately. Recently, I've started letting AI take the lead on almost all of my writing ... 
 
+<audio controls>
+  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-21-The-Moth-and-the-Flame.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-iEwezcRcZ4?si=REiDsqRwH_ohccuh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I'll feed it what I'm thinking, what I'm doing, what I've learned, or what I'm trying to say... and somehow it turns all of that into a two-page report.Then I'll tell it, "That's way too much. Scale it back." And it gives me two paragraphs.
