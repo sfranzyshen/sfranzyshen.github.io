@@ -6,6 +6,10 @@ date: 2026-09-20
 
 I've been looking more closely at how we count, track, manage, and fund homelessness in Chico and Butte County.
 
+<audio controls>
+  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-20-We-Dont-Need-More-Management-of-Homelessness.m4a" type="audio/mpeg">
+</audio>
+
 And the more I look, the more complicated the system becomes.
 
 We have Point-in-Time counts.
