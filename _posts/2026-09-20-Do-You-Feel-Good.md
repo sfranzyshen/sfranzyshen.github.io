@@ -2,6 +2,8 @@
 layout: default
 title:  "Do You Feel Good?"
 date: 2026-09-20
+categories: [Homelessness, Advocacy, Community]
+tags: [homelessness, advocacy, Chico, community, housing, problem solving]
 ---
 
 When I was volunteering at the cooling center, one of the guests said something to me that stuck with me.
