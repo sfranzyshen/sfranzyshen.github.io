@@ -2,8 +2,8 @@
 layout: default
 title: "The Moth and the Flame"
 date: 2026-09-21
-categories: [Homelessness, Advocacy, Community]
-tags: [homelessness, advocacy, Chico, community, housing, problem solving]
+categories: [AI]
+tags: [AI]
 ---
 
 I've been thinking about how much I use AI lately. Recently, I've started letting AI take the lead on almost all of my writing ... 
