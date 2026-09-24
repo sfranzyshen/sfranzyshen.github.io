@@ -10,7 +10,6 @@ tags: [homelessness, advocacy, Chico, community, housing, problem solving]
 
 <audio controls>
   <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-22-Community-Support-Specialist.m4a" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio>
 
 I have experienced many of the same situations that homeless people in Chico have experienced or are experiencing. Along the way, I have made many connections, both professionally and personally, throughout Chico's homeless ecosystem. I have also become familiar with most, if not all, of the organizations in Chico that provide services or assistance to lower-income and homeless community members.
