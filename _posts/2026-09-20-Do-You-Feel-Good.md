@@ -6,6 +6,10 @@ date: 2026-09-20
 
 When I was volunteering at the cooling center, one of the guests said something to me that stuck with me.
 
+<audio controls>
+  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-20-Do-You-Feel-Good.mp3" type="audio/mpeg">
+</audio>
+
 He looked at the people who came there to help and said:
 
 > "People who come here to help... come here to make themselves feel good. Do you feel good?"
