@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "What Does “Affordable” Mean in Chico?"
+image: /images/2026-Chico-MSA-Income-Limits-pdf-09-16-2026_12_27_PM.png
 date: 2026-09-16
 ---
 
