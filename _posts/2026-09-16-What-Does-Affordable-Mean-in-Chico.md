@@ -1,8 +1,11 @@
 ---
 layout: default
 title: "What Does “Affordable” Mean in Chico?"
+description: "HUD's 2026 numbers for the Chico MSA tell an interesting story."
 image: /images/2026-Chico-MSA-Income-Limits-pdf-09-16-2026_12_27_PM.png
 date: 2026-09-16
+author: "Scotty Franzyshen"
+published: true
 ---
 
 HUD's 2026 numbers for the Chico MSA tell an interesting story.
