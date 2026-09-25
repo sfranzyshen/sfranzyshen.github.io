@@ -6,7 +6,7 @@ date: 2026-09-20
 
 We all love to complain about the problems in our communities.
 
-Homelessness, Housing, Crime, Poverty, Addiction, Mental health, The cost of living, Government ...
+Homelessness, housing, crime, poverty, addiction, mental health, the cost of living, government ...
 
 The list goes on and on. And we have plenty of opinions about what **someone else** should do about it.
 
