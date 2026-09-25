@@ -6,37 +6,15 @@ date: 2026-09-20
 
 We all love to complain about the problems in our communities.
 
-Homelessness.
+Homelessness, Housing, Crime, Poverty, Addiction, Mental health, The cost of living, Government ...
 
-Housing.
-
-Crime.
-
-Poverty.
-
-Addiction.
-
-Mental health.
-
-The cost of living.
-
-Government.
-
-The list goes on and on.
-
-And we have plenty of opinions about what **someone else** should do about it.
+The list goes on and on. And we have plenty of opinions about what **someone else** should do about it.
 
 But there is a harder question:
 
 ## What are *you* doing?
 
-Not what should the government do.
-
-Not what should the city do.
-
-Not what should nonprofits do.
-
-Not what should your neighbor do.
+Not what should the government, the city, nonprofits, or your neighbor do ...
 
 **What are you personally willing to do?**
 
@@ -50,43 +28,17 @@ If we want our communities to be different, we have to participate in making the
 
 ## Put your good where it does the most
 
-Ken Kesey is credited with saying:
+Ken Keyzey is credited with saying:
 
 > "Put your good where it does the most."
 
 I think about that a lot.
 
-Everybody has something they can contribute.
+Everybody has something they can contribute. Maybe you're good with tools, computers, at organizing, cooking, or fixing things.
 
-Maybe you're good with tools.
+Maybe you can teach, good with animals, or can listen. Maybe you have an extra room, a truck to use, have a little money, or you simply have **time**.
 
-Maybe you're good with computers.
-
-Maybe you're good at organizing.
-
-Maybe you can cook.
-
-Maybe you can fix things.
-
-Maybe you can teach.
-
-Maybe you're good with animals.
-
-Maybe you can listen.
-
-Maybe you have an extra room.
-
-Maybe you have a truck.
-
-Maybe you have money.
-
-Maybe you simply have **time**.
-
-You don't have to be rich.
-
-You don't have to start a nonprofit.
-
-You don't have to become an expert.
+You don't have to be rich, start a nonprofit, or become an expert.
 
 You just have to find something you're good at and put it somewhere it can do some good.
 
@@ -104,15 +56,7 @@ It isn't.
 
 But I do know that I have skills, experience, ideas, time, and a willingness to work.
 
-So I'm trying to put those things to use.
-
-That's what service means to me.
-
-Not charity from above.
-
-Not feeling sorry for someone.
-
-Not saving people.
+So I'm trying to put those things to use. That's what service means to me. Not charity from above. Not feeling sorry for someone. Not saving people.
 
 **Showing up.**
 
@@ -130,17 +74,7 @@ It's the **principle of sharing what you have**.
 
 I try to apply that principle to many areas of my own life.
 
-My **time**.
-
-My **money**.
-
-My **attention**.
-
-My **effort**.
-
-My **knowledge**.
-
-My **skills**.
+My **time**, **money**, **attention**, **effort**, **knowledge**,**skills** ...
 
 Even my **love**.
 
@@ -152,25 +86,13 @@ But I don't want to consume everything I have.
 
 I want to reserve a portion of what I have for other people.
 
-Maybe that means helping someone fix a bicycle.
-
-Maybe it means spending an afternoon helping an organization.
-
-Maybe it means giving someone a ride.
-
-Maybe it means sharing something I know.
-
-Maybe it means giving someone a little money when they need it.
-
-Maybe it means simply sitting with someone and paying attention.
+Maybe that means helping someone fix a bicycle, spending an afternoon helping an organization, giving someone a ride, sharing something I know, giving someone a little money when they need it, or simply sitting with someone and paying attention.
 
 And sometimes it means giving somebody something much harder to measure:
 
 **love.**
 
-I don't think generosity has to mean giving everything away.
-
-In fact, I don't think that's sustainable.
+I don't think generosity has to mean giving everything away. In fact, I don't think that's sustainable.
 
 I think there is something healthier about recognizing that we have limited resources and intentionally deciding that **some portion of those resources will be used to benefit somebody besides ourselves.**
 
@@ -188,25 +110,7 @@ We sometimes make helping people sound like it requires a grant, a board of dire
 
 It doesn't.
 
-Sometimes service looks like helping someone move.
-
-Sometimes it looks like fixing a bicycle.
-
-Sometimes it means giving someone a ride.
-
-Sometimes it means mowing a lawn.
-
-Sometimes it means cleaning a cat box for someone who can't do it themselves.
-
-Sometimes it means sitting down and listening to somebody who hasn't had anyone listen to them in a long time.
-
-Sometimes it means opening a spare room.
-
-Sometimes it means hiring someone who needs an opportunity.
-
-Sometimes it means picking up trash in your neighborhood.
-
-Sometimes it means teaching somebody a skill you take for granted.
+Sometimes service looks like helping someone move, fixing a bicycle, giving someone a ride, mowing a lawn, cleaning a cat box for someone who can't do it themselves, sitting down and listening to somebody who hasn't had anyone listen to them in a long time, opening a spare room, hiring someone who needs an opportunity, picking up trash in your neighborhood, or teaching somebody a skill you take for granted.
 
 And sometimes it means simply asking:
 
@@ -272,47 +176,11 @@ Don't start by explaining what everybody else should be doing.
 
 Ask what they need.
 
-Maybe they need someone to sort donations.
-
-Maybe they need help cleaning.
-
-Maybe something needs to be repaired.
-
-Maybe they need somebody who understands computers.
-
-Maybe they need transportation.
-
-Maybe they need help preparing meals.
-
-Maybe they need someone to spend time with people.
-
-Maybe there is administrative work that genuinely needs a human being.
-
-Maybe they simply need somebody reliable who will show up.
+Maybe they need someone to sort donations, help cleaning, to repair something, who understands computers, or to handle transportation. Maybe they need help preparing meals,to spend time with people, with administrative work, or they simply need somebody reliable who will show up.
 
 And if you have a professional skill, offer it.
 
-A plumber.
-
-A contractor.
-
-A mechanic.
-
-A computer technician.
-
-An accountant.
-
-A lawyer.
-
-A business owner.
-
-A landlord.
-
-A retired person.
-
-A person who knows how to organize things.
-
-A person who knows how to listen.
+A plumber, contractor, mechanic, computer technician, accountant, lawyer, business owner, landlord, retired person, person who knows how to organize things, or person who knows how to listen.
 
 Everybody has something.
 
@@ -332,23 +200,7 @@ But I do think there is something powerful about the idea that our lives are not
 
 Maybe some of what makes a life meaningful is what we **give away**.
 
-Our time.
-
-Our knowledge.
-
-Our skills.
-
-Our compassion.
-
-Our resources.
-
-Our attention.
-
-Our experience.
-
-Our willingness to show up.
-
-And maybe even our love.
+Our time, knowledge, skills, compassion, resources, attention, experience, willingness to show up, And maybe even our love.
 
 ---
 
