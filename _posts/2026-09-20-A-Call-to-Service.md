@@ -4,9 +4,12 @@ title: "A Call to Service"
 date: 2026-09-20
 ---
 
-We all love to complain about the problems in our communities.
+We all love to complain about the problems in our communities. Homelessness, housing, crime, poverty, addiction, mental health, the cost of living, and government ...
 
-Homelessness, housing, crime, poverty, addiction, mental health, the cost of living, government ...
+
+<audio controls>
+  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-20-A-Call-to-Service.mp3" type="audio/mpeg">
+</audio>
 
 The list goes on and on. And we have plenty of opinions about what **someone else** should do about it.
 
@@ -28,7 +31,7 @@ If we want our communities to be different, we have to participate in making the
 
 ## Put your good where it does the most
 
-Ken Keyzey is credited with saying:
+Ken Kesey is credited with saying:
 
 > "Put your good where it does the most."
 
