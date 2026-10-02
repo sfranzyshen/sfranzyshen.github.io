@@ -8,7 +8,11 @@ This is my personal blog about navigating housing, employment, public assistance
 
 After spending many years navigating homelessness, housing, employment, and the systems that are supposed to help people move forward, I've accumulated a lot of experiences, observations, questions, and stories.
 
-This isn't intended to be a formal organization or an official source of information. It is simply my perspective, based on what I have experienced and what I continue to learn along the way. I am opinionated and blunt in my ways but I try not to be critical or judgmental in my action. I consider myself a non-prophet and expect nothing in return for kindness.
+This isn't intended to be a formal organization or an official source of information. It is simply my perspective, based on what I have experienced and what I continue to learn along the way. 
+
+I am opinionated and blunt in my ways ... but I try not to be critical or judgmental in my actions. I consider myself a Human Rights Enforcer, Non-Prophet, Community Support Specialist and I expect nothing in return for my kindness. 
+
+Either help me to do it ... or get out of my way from doing it ... because either way we are changing the world!
 
 If I can be useful, I’m here.
 
