@@ -358,3 +358,6 @@ Chico, California
 11. **City of Chico Court Filing - Genesis/Pallet Shelter Costs:** A City declaration states that capital expenditures and operating costs for the Pallet Shelter and Alternative Sites totaled approximately $12.99 million from all funding sources through July 31, 2024.  
    <https://chico.ca.us/documents/City-of-Chico-Press-Release-TRUE-FINAL-City-of-Chico-s-Motion-Pursuant-to-Rule-60-002.pdf>
 
+12. **City of Chico Notice Filed AG Complaint Scotty Franzyshen:** Complaint Regarding the City of Chico’s Housing Obligations and Homelessness Policy
+   <https://www.sfranzyshen.org/images/City_of_Chico_Notice_Filed_AG_Complaint_Scotty_Franzyshen.pdf>
+
