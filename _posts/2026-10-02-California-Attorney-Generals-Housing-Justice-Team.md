@@ -346,18 +346,20 @@ Chico, California
 7. **City of Chico Planning Commission - TownePlace Suites:** City records describe a 112-room all-suites hotel and note that the project would generate transient occupancy tax revenue for the City's general fund.  
    <https://chico.ca.us/documents/Government/Boards--Commissions/Planning-Commission/2022/7-21-2022_staff_report_and_attachments.pdf>
 
-8. **City of Chico City Council - August 3, 2021:** Council agenda records show consideration and authorization of a Professional Services Agreement with Hope Street Coalition to develop a Homelessness Strategic Plan.  
+8. **City of Chico City Council - August 3, 2021:** Council agenda records show consideration and authorization of a Professional Services Agreement with Hope Street Coalition to develop a Homelessness Strategic Plan.
    <https://chico-ca.granicus.com/GeneratedAgendaViewer.php?clip_id=996&view_id=2>
 
-9. **Chico News & Review - August 4, 2021:** Contemporary reporting identified the Hope Street Coalition strategic-plan contract amount as $49,950.  
+10. **Chico News & Review - August 4, 2021:** Contemporary reporting identified the Hope Street Coalition strategic-plan contract amount as $49,950.
    <https://chico.newsreview.com/2021/08/04/charging-forward/>
 
-10. **Hope Street Coalition - Strategic Plan to Address Homelessness:** The City-commissioned plan states that Chico's existing approach was not working and recommends improved data collection, objectives, accountability, and program evaluation.
+11. **Hope Street Coalition - Strategic Plan to Address Homelessness:** The City-commissioned plan states that Chico's existing approach was not working and recommends improved data collection, objectives, accountability, and program evaluation.
    <https://chico.ca.us/documents/City-Services/Sheltering-Provisions/Homelessness-Strategic-Planning-Efforts/hope_street_coalition_homelessness_strategic_plan_fnl_1.pdf>
 
-11. **City of Chico Court Filing - Genesis/Pallet Shelter Costs:** A City declaration states that capital expenditures and operating costs for the Pallet Shelter and Alternative Sites totaled approximately $12.99 million from all funding sources through July 31, 2024.  
+12. **City of Chico Court Filing - Genesis/Pallet Shelter Costs:** A City declaration states that capital expenditures and operating costs for the Pallet Shelter and Alternative Sites totaled approximately $12.99 million from all funding sources through July 31, 2024.  
    <https://chico.ca.us/documents/City-of-Chico-Press-Release-TRUE-FINAL-City-of-Chico-s-Motion-Pursuant-to-Rule-60-002.pdf>
 
-12. **City of Chico Notice Filed AG Complaint Scotty Franzyshen:** Complaint Regarding the City of Chico’s Housing Obligations and Homelessness Policy
-   <https://www.sfranzyshen.org/images/City_of_Chico_Notice_Filed_AG_Complaint_Scotty_Franzyshen.pdf>
+13. **City of Chico Notice Filed AG Complaint Scotty Franzyshen:** Complaint Regarding the City of Chico’s Housing Obligations and Homelessness Policy
+    <https://www.sfranzyshen.org/images/City_of_Chico_Notice_Filed_AG_Complaint_Scotty_Franzyshen.pdf>
 
+14. **Complaint Regarding the City of Chico’s Housing Obligations and Homelessness Policy** Complaint Regarding the City of Chico’s Housing Obligations and Homelessness Policy
+    <https://oag.ca.gov/system/files/webform/California_AG_Housing_Justice_Team_Complaint_Scotty_Franzyshen_FINAL.pdf>
