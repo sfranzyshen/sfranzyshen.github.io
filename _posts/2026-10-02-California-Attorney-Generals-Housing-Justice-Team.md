@@ -352,7 +352,7 @@ Chico, California
 9. **Chico News & Review - August 4, 2021:** Contemporary reporting identified the Hope Street Coalition strategic-plan contract amount as $49,950.  
    <https://chico.newsreview.com/2021/08/04/charging-forward/>
 
-10. **Hope Street Coalition - Strategic Plan to Address Homelessness:** The City-commissioned plan states that Chico's existing approach was not working and recommends improved data collection, objectives, accountability, and program evaluation.  
+10. **Hope Street Coalition - Strategic Plan to Address Homelessness:** The City-commissioned plan states that Chico's existing approach was not working and recommends improved data collection, objectives, accountability, and program evaluation.
    <https://chico.ca.us/documents/City-Services/Sheltering-Provisions/Homelessness-Strategic-Planning-Efforts/hope_street_coalition_homelessness_strategic_plan_fnl_1.pdf>
 
 11. **City of Chico Court Filing - Genesis/Pallet Shelter Costs:** A City declaration states that capital expenditures and operating costs for the Pallet Shelter and Alternative Sites totaled approximately $12.99 million from all funding sources through July 31, 2024.  
