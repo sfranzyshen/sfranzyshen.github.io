@@ -4,87 +4,125 @@ title: "Taking the Shame Out of the Game"
 date: 2026-09-16
 ---
 
-So you're struggling with an addiction. Maybe it's drugs. Maybe it's alcohol. Maybe it's something else entirely. Maybe you want to stop. Maybe you don't. Maybe you're ready for help. Maybe you're not. Maybe you've tried to stop before and couldn't. **Either way, you are still a human being.** And you still deserve to be treated with dignity and respect.
+So you’re struggling with an addiction. <sub>updated: 10/04/2026</sub>
 
-## Let's Take the Shame Out of the Game
+Maybe it’s drugs. Maybe it’s alcohol. Maybe it’s something else entirely.
 
-We need to stop using addiction as a reason to degrade people.
+Maybe you want to stop. Maybe you don’t.
 
-We need to stop calling people names because they struggle with addiction.
+Maybe you’re ready for help. Maybe you’re not.
 
-We need to stop holding someone's addiction over their head as proof that they are somehow less deserving of respect than everyone else.
+Maybe you’ve tried to stop before and couldn’t.
 
-And we need to stop using people who struggle with addiction as examples to frighten everyone else:
+Either way, you are still a human being.
 
-> “Look what happens when you use drugs.”
+And you still deserve to be treated with dignity and respect.
 
-As if the lesson we're supposed to learn is that if we ever become addicted, **society will turn its back on us too.**
+## Let’s Take the Shame Out of the Game
 
-Why would we want that to be the message?
+We have spent generations teaching people to be ashamed of addiction.
 
-Why would we want someone struggling with addiction to believe that admitting they have a problem means admitting that they are a bad person?
+We shame people for using drugs. We shame people for relapsing. We shame people for needing help. We shame people for not accepting the kind of help *we* think they should accept.
 
-Why would we want shame to become another barrier between someone and the help they might eventually decide they want?
+And sometimes we even use people struggling with addiction as an example to everyone else:
 
-## What If They're Not Ready to Stop?
+*Look what happens if you use drugs.*
 
-What if someone is struggling with an addiction and needs to continue using or engaging in that behavior just to get through the day?
+*Look where you’ll end up.*
 
-We don't have to pretend that addiction is safe.
+*Look at what kind of person you’ll become.*
 
-We don't have to pretend that harmful substances or behaviors don't have consequences.
+That isn’t helping someone.
 
-We don't have to encourage someone's addiction.
+That is using another human being’s suffering as a warning sign.
 
-But we **can** make sure that person has access to resources that reduce harm, medical care, support, and people who will treat them with dignity.
+## Who Gets to Be Deserving?
 
-That's the idea behind harm reduction.
+Think about how we talk about disability.
 
-It doesn't mean saying:
+Disabilities can be physical or mental. They can be obvious or completely invisible.
 
-> “Addiction is good.”
+As a society, at least in principle, we accept that a person living with a disability deserves support, accommodation, dignity, and access to care.
 
-It means saying:
+We are nowhere close to providing that support at an acceptable level... but most of us understand the basic principle:
 
-> **“You are a human being, and your life still has value while you're struggling.”**
+**Someone needing help does not make them a lesser person.**
 
-Maybe someday that person will decide they want treatment.
+So why does that principle suddenly disappear when addiction enters the conversation?
 
-Maybe they will want counseling.
+Why are we so quick to decide that one person’s struggle deserves compassion while another person’s struggle represents a personal failure?
 
-Maybe they will want recovery.
+I am not saying addiction and disability are the same thing.
 
-Maybe they will want medication or other forms of medical support.
+I am asking why we make **human dignity conditional on how we judge the reason someone needs help.**
 
-Maybe they aren't ready for any of those things today.
+Maybe the greater failure isn't simply the person struggling with addiction.
 
-**We can still help them stay alive and connected to their community long enough to make that decision tomorrow.**
+Maybe some of that failure belongs to a society that waits until people are falling apart and then asks whether they deserve to be caught.
 
-## We Don't Have to Fix People to Help Them
+## Care Isn’t Care Without Care
 
-This is something I think we often get wrong.
+That sounds ridiculous when you first read it:
 
-We seem to believe that before we can help someone, we first need to **fix them.**
+**Care isn’t care without care.**
 
-We want them to stop using.
+But think about what the word actually means.
 
-We want them to change their behavior.
+If someone needs help and the first thing we do is evaluate whether they are *deserving* of that help, are we providing care?
 
-We want them to become stable.
+Or are we providing **selective care**?
 
-We want them to conform to our idea of what a successful life should look like.
+If we say we provide care but don't actually care about the person receiving it... is it really care?
 
-And then we're willing to help.
+Or has it simply become work?
 
-What if we reversed that?
+A service?
 
-What if we helped people **before** they were fixed?
+A program?
 
-What if we supported someone while they were still struggling?
+A transaction?
 
-What if we simply met people where they are?
+A job where one person is paid to deliver something to another person?
 
-A meal.
+There is nothing wrong with being paid to provide services. We absolutely need trained professionals, social workers, medical providers, shelter workers, outreach workers, counselors, and others doing this work.
+
+But the service itself should never replace the humanity behind it.
+
+At some point we have to ask:
+
+**Are we becoming a society of workers doing jobs instead of neighbors helping neighbors?**
+
+## We Don’t Have to Fix People to Help Them
+
+This is where I think we get things backwards.
+
+We often expect people to demonstrate that they are changing before we decide they deserve help.
+
+Stop using.
+
+Get sober.
+
+Follow the program.
+
+Change your behavior.
+
+Prove that you're trying.
+
+Then we'll help you.
+
+But what about the person who isn't ready?
+
+What about the person who has tried ten times?
+
+What about the person who doesn't even believe they can change anymore?
+
+Do we abandon them?
+
+We don't have to pretend addiction is harmless. We don't have to pretend destructive behavior doesn't have consequences.
+
+We can acknowledge those realities while still helping someone survive today.
+
+That can mean food.
 
 A shower.
 
@@ -92,111 +130,121 @@ A safe place to sleep.
 
 Medical care.
 
-Clean and appropriate harm-reduction supplies.
+Sterile injection equipment and other harm-reduction resources.
 
 A conversation.
 
-A person willing to listen.
+Or simply another human being willing to sit down and listen without immediately judging them.
 
-A person who doesn't immediately judge them.
+**We don't have to fix people before we help people.**
 
-A person who doesn't treat their addiction as their identity.
+## What If They’re Not Ready to Stop?
 
-Those things can be offered without demanding that someone first become the person we think they should be.
+This seems to be where compassion suddenly becomes conditional.
+
+If someone is actively struggling with addiction, we start asking:
+
+*Do they really deserve this?*
+
+*Are we enabling them?*
+
+*Why should we help someone who won't help themselves?*
+
+But helping someone stay alive isn't an endorsement of everything they do.
+
+Providing harm reduction doesn't mean pretending addiction is safe.
+
+Treating someone with dignity doesn't mean approving of every decision they make.
+
+It means recognizing something incredibly basic:
+
+**A human life still has value while that person is struggling.**
+
+Maybe they seek recovery tomorrow.
+
+Maybe next year.
+
+Maybe they never do.
+
+But they have to survive today to have any possibility of tomorrow.
 
 ## Addiction Is Not a Moral Failure
 
 Addiction can affect people from every part of society.
 
-It doesn't care how educated you are.
+Rich people.
 
-It doesn't care how much money you have.
+Poor people.
 
-It doesn't care what your job is.
+People with homes.
 
-It doesn't care where you came from.
+People without homes.
 
-And it certainly doesn't make someone less human.
+People with families.
 
-Yet we often talk about addiction as though the person experiencing it has somehow failed a test of morality.
+People who have lost everyone.
 
-We ask:
+People who appear successful.
 
-**“Why don't they just stop?”**
+People whose struggles are visible to everyone around them.
 
-Maybe the better question is:
+Instead of asking:
 
-**“What can we do to make it easier for them to survive today and get help when they're ready?”**
+*Why don't they just stop?*
 
-There is a huge difference between those two questions.
+Maybe we should ask:
 
-One begins with judgment.
+**What can we do to help this person survive today and make sure help is available when they're ready for it?**
 
-The other begins with compassion.
+That doesn't remove personal responsibility.
 
-## You Don't Have to Approve of Someone's Choices to Respect Them
+It adds **community responsibility**.
 
-This is important.
+## You Don’t Have to Approve of Someone’s Choices to Respect Them
 
-Respecting someone does not mean approving of everything they do.
+Respect does not mean approval.
 
 Compassion does not mean ignoring harmful behavior.
 
-Harm reduction does not mean pretending there are no consequences to addiction.
+We can establish boundaries.
 
-We can acknowledge all of those realities **without treating people like garbage.**
+We can address dangerous behavior.
 
-If someone is hurting another person, protect the person being harmed.
+We can protect ourselves and other people.
 
-If someone is creating a dangerous situation, address the danger.
+We can hold someone accountable for something they have done.
 
-If someone needs medical attention, provide medical attention.
+But we can do all of those things without stripping away their humanity.
 
-If someone asks for help getting into recovery, help them find it.
-
-But **deal with the behavior without turning the human being into the behavior.**
-
-Someone experiencing addiction is not their addiction.
-
-They are a person who is experiencing addiction.
-
-**That distinction matters.**
+We can address the behavior without turning the person into the behavior.
 
 ## What Kind of Community Do We Want?
 
-I don't want to live in a community where people are afraid that if they develop an addiction, everyone around them will stop seeing them as human.
+Do we want people struggling with addiction to be terrified of admitting it because they believe everyone around them will judge them?
 
-I don't want someone struggling with addiction to think:
+Do we want people hiding their struggles until they reach a crisis?
 
-> “If I admit what's happening to me, everyone will hate me.”
+Do we want someone afraid to ask for help because asking means admitting they belong to a group society has decided to look down upon?
 
-I want people to be able to say:
+Or do we want someone to be able to say:
 
-> **“I have a problem.”**
+*I'm struggling.*
 
-And have someone respond:
+And have another human being respond:
 
-> **“Okay. You're still my brother. You're still my sister. Let's figure out what we can do.”**
+*Okay.*
 
-Maybe we can't fix everything.
+*You're still my brother.*
 
-Maybe we can't fix anything today.
+*You're still my sister.*
 
-But we can make sure that **shame isn't another thing standing between a person and survival.**
+*You're still my neighbor.*
 
-We can provide resources.
+*Let's figure out what we can do.*
 
-We can provide medical care.
+That sounds much more like care to me.
 
-We can provide harm-reduction services.
-
-We can provide treatment when someone asks for it.
-
-We can provide recovery support.
-
-And sometimes, perhaps most importantly, **we can simply be willing to sit beside someone without judging them.**
-
-## I Don't Care What You're Addicted To
+## I Don’t Care What You’re Addicted To
 
 I don't care what you think is the worst addiction.
 
@@ -206,18 +254,26 @@ I don't care whether you've been in recovery for twenty years.
 
 I don't care whether you're struggling today.
 
-**You deserve respect.**
+You deserve respect.
 
 You deserve dignity.
 
 You deserve to be treated like a human being.
 
-And if someday you're ready to change your life, **you deserve to find people willing to help you do it.**
+Because help shouldn't begin with deciding whether someone is worthy of receiving it.
 
-Until then, let's stop making shame part of the punishment.
+**People need care because they need care.**
 
-**Take the shame out of the game.**
+Maybe that's what we have forgotten.
 
-Because addiction may be something a person is experiencing.
+Maybe we have built so many systems, programs, eligibility requirements, assessments, classifications, and services around caring for people that somewhere along the way we forgot the simplest part:
+
+**Actually caring about the person.**
+
+Take the shame out of the game.
+
+Care isn't care without care.
+
+And addiction may be something a person is experiencing.
 
 **It is not who they are.**
