@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Changing the Narrative of People Experiencing Homelessness"
+image: /images/paper-people-community.jpg
 date: 2026-10-13
 ---
 
