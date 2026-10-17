@@ -2,6 +2,9 @@
 layout: default
 title: "There are more homeless people on the streets"
 date: 2021-04-23
+description: "My 2021 concerns about shelter capacity, barriers, and ordinances affecting people without housing in Chico."
+tags: [Chico, homelessness, shelter capacity, public policy]
+categories: [Homelessness, Opinion]
 ---
 
 There are more homeless people on the streets right now in chico ca than there are beds available at local shelters. 
