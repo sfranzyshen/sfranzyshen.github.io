@@ -59,3 +59,6 @@ At 84, she deserves a safe place to sleep ... and the opportunity to keep living
 **My homelessness journey ... chapter 17 of 17**
 
 [← I Am Ecstatic]({% post_url 2026-09-11-I-am-ecstatic %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }})
+
+
+**October follow-up:** [My Homelessness Ended ... But My Work Didn't]({% post_url 2026-10-17-My-Homelessness-Ended-But-My-Work-Didnt %}) ... what I'm doing now to help older neighbors find options.
