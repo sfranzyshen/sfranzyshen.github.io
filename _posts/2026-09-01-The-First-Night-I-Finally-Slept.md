@@ -47,3 +47,9 @@ Sometimes it's simply sleeping until morning. 😁
 ---
 
 *Related: [My homelessness is ending]({% post_url 2026-08-19-My-homelessness-is-ending %}) and [The Little Things That Make a Home]({% post_url 2026-08-30-The-Little-Things-That-Make-a-Home %}).*
+
+---
+
+**My homelessness journey ... chapter 14 of 17**
+
+[← The Little Things That Make a Home]({% post_url 2026-08-30-The-Little-Things-That-Make-a-Home %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [And Just to Be Clear →]({% post_url 2026-09-10-And-just-to-be-clear %})
