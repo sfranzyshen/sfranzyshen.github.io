@@ -4,6 +4,7 @@ title: "From Torres to Temporary Housing ... A Chance to Regroup"
 date: 2026-07-31
 categories: [Homelessness, Personal Journey]
 tags: [Chico, Torres Shelter, temporary housing, dignity, housing]
+description: "My move out of Torres Shelter into temporary housing in July 2026 and the relief of having room to regroup."
 ---
 
 *Based on my Facebook announcement of July 31, 2026, with later reflections added for context.*
