@@ -4,6 +4,7 @@ title: "I Have Everything I Need ... Except a J.O.B."
 date: 2026-08-28
 categories: [Personal Journey, Employment]
 tags: [Chico, employment, CalFresh, poverty, homelessness, recovery]
+description: "My August 2026 transition into part-time work and the challenge of balancing earnings with housing and assistance."
 ---
 
 *Written in October 2026, drawing on my Facebook updates and comments from August 6–28, 2026.*
