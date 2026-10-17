@@ -10,7 +10,7 @@ description: "My thoughts on using artificial intelligence for writing, creativi
 I've been thinking about how much I use AI lately. Recently, I've started letting AI take the lead on almost all of my writing ... 
 
 <audio controls>
-  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-21-The-Moth-and-the-Flame.m4a" type="audio/mpeg">
+  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-21-The-Moth-and-the-Flame.m4a" type="audio/mp4">
 </audio>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-iEwezcRcZ4?si=REiDsqRwH_ohccuh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
