@@ -4,6 +4,7 @@ title: "Why I'm Making My Homelessness Public"
 date: 2026-07-21
 categories: [Homelessness, Personal Journey]
 tags: [Chico, homelessness, shelter, dignity, firsthand experience]
+description: "Why I began documenting my experience of homelessness in Chico publicly rather than staying silent."
 ---
 
 *Based on my Facebook posts from July 20–21, 2026. Lightly edited for readability, with a new reflection added in October 2026.*
