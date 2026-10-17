@@ -32,6 +32,10 @@ On August 17, I posted another update:
 
 > On my way to 100 miles ... Keep in mind this isn't necessarily an exercise goal ... rather an environmental goal ... I'm only counting my commuting trips ... I could easily do 100 miles a day if that was the goal 🤣
 
+![Mileage tracking screenshot from my August 17 Facebook post]({{ '/images/facebook-2026/2026-08-17-bike-mileage.jpg' | relative_url }})
+
+*My August 17 commuting-mileage screenshot, shared on Facebook.*
+
 That distinction matters to me.
 
 I wasn't trying to rack up miles for a fitness contest. I was paying attention to the miles I was already riding just to live my life and get around Chico.
@@ -46,6 +50,10 @@ On August 24, I discovered that when my phone's battery got low enough, the trac
 
 > I lost 2 days of rides blowing my perfect streak of days and missing the 100 miles challenge ...
 
+![Mileage tracker from my August 24 post after missed recordings]({{ '/images/facebook-2026/2026-08-24-bike-mileage.jpg' | relative_url }})
+
+*My August 24 tracking screenshot, also from the Facebook archive.*
+
 I was frustrated. I'd ridden those miles. I just couldn't prove it to the app.
 
 But I hadn't really lost the rides ... only the record of them.
@@ -57,3 +65,9 @@ And after the uncertainty of my housing situation that summer, there was somethi
 Not every part of rebuilding a life involves a big breakthrough. Sometimes it's a ride across town, another errand finished, another day of getting where you need to go.
 
 **Six miles at a time.** 🚲
+
+---
+
+**My homelessness journey ... chapter 11 of 17**
+
+[← My Homelessness Is Ending]({% post_url 2026-08-19-My-homelessness-is-ending %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [I Have Everything I Need ... Except a J.O.B. →]({% post_url 2026-08-28-I-Have-Everything-I-Need-Except-a-Job %})
