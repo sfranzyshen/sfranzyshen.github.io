@@ -77,7 +77,7 @@
 
   <section>
     {{ content }}
-    {% if page.collection == 'posts' and page.tags and page.tags.size > 0 %}
+    {% if page.date and page.tags and page.tags.size > 0 %}
     <nav class="post-topics" aria-label="Post topics">
       <strong>Topics:</strong>
       {% for tag in page.tags %}
