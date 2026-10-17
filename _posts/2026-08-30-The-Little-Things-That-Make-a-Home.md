@@ -4,6 +4,7 @@ title: "The Little Things That Make a Home"
 date: 2026-08-30
 categories: [Homelessness, Personal Journey]
 tags: [Chico, housing, community, recovery, stability]
+image: /images/facebook-2026/2026-08-30-desk-and-chair.jpg
 ---
 
 *Looking back on several Facebook updates from July 31 through August 30, 2026.*
