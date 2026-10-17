@@ -82,7 +82,13 @@ If we want to make progress, we have to be willing to talk to each other ... eve
 
 Something else has changed lately. I've given away more money in the last few weeks than I made all last year.
 
-I like carrying $5 bills and handing one to somebody who could use it.
+I like carrying $5 bills and giving them away ... not just to people experiencing homelessness.
+
+Sometimes I'll pop into a coffee shop or another little eatery and put a five in the tip jar. I don't need to buy anything or have a special reason. I just figure the people working there can use it.
+
+Sometimes I'll hand a five to somebody on the street.
+
+**I don't do it for recognition or because I think I know who needs it most. I just like to give.**
 
 I call it **“5 to Thrive.”** 😁
 
