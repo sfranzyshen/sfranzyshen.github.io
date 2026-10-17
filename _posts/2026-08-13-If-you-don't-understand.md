@@ -30,3 +30,9 @@ The wear and tear isn't always obvious to somebody watching from the outside. Yo
 I was grateful for the chance to regroup. But I wanted people to understand that **having a place in a program isn't the same thing as having control over your life**.
 
 Sometimes the assistance comes with its own costs ... and one of those costs is time.
+
+---
+
+**My homelessness journey ... chapter 8 of 17**
+
+[← From Torres to Temporary Housing]({% post_url 2026-07-31-From-Torres-to-Temporary-Housing %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [At the Facility →]({% post_url 2026-08-13-At-the-Facility-there-is-a-great-room %})
