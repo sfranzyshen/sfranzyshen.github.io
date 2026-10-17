@@ -4,7 +4,6 @@ title: "Now for the reality of things … I am actually doing great!"
 date: 2026-07-22
 description: "Despite a difficult first shelter experience, I explain why I still consider myself lucky and determined."
 tags: [Chico, homelessness, Torres Shelter, gratitude, dignity]
-categories: [Homelessness, Personal Journey]
 ---
 
 Now for the reality of things … I am actually doing great!
