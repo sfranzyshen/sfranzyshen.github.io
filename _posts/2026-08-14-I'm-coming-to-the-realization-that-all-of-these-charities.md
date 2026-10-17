@@ -4,7 +4,6 @@ title: "I'm coming to the realization that all of these charities are ... "
 date: 2026-08-14
 description: "A candid August 2026 critique of nonprofit homelessness services and the difficulty of finding lasting exits."
 tags: [Chico, homelessness, nonprofits, accountability, personal opinion]
-categories: [Homelessness, Opinion]
 ---
 
 I'm coming to the realization that all of these charities are nothing more than fronts for middle aged white women to give themselves paychecks and pat each other on the backs telling each other what a great job they are doing ... 
