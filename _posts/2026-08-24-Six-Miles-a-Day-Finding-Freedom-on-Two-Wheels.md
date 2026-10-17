@@ -4,6 +4,7 @@ title: "Six Miles a Day ... Finding Freedom on Two Wheels"
 date: 2026-08-24
 categories: [Personal Journey, Homelessness]
 tags: [Chico, cycling, commuting, transportation, independence]
+image: /images/facebook-2026/2026-08-17-bike-mileage.jpg
 ---
 
 *Written in October 2026 from Facebook updates I shared on August 9, 12, 15, 17, and 24.*
