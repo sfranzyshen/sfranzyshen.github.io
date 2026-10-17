@@ -55,3 +55,9 @@ The next part was figuring out what happened to my benefits when I did.
 ---
 
 *Related: [And just to be clear ...]({% post_url 2026-09-10-And-just-to-be-clear %}) and [I am ecstatic]({% post_url 2026-09-11-I-am-ecstatic %}).*
+
+---
+
+**My homelessness journey ... chapter 12 of 17**
+
+[← Six Miles a Day]({% post_url 2026-08-24-Six-Miles-a-Day-Finding-Freedom-on-Two-Wheels %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [The Little Things That Make a Home →]({% post_url 2026-08-30-The-Little-Things-That-Make-a-Home %})
