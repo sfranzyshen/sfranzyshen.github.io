@@ -4,6 +4,7 @@ title:  "Do You Feel Good?"
 date: 2026-09-20
 categories: [Homelessness, Advocacy, Community]
 tags: [homelessness, advocacy, Chico, community, housing, problem solving]
+description: "A cooling-center encounter raises a question about why we volunteer and what meaningful service looks like."
 ---
 
 When I was volunteering at the cooling center, one of the guests said something to me that stuck with me.
