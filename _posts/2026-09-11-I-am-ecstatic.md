@@ -4,7 +4,6 @@ title: "I am ecstatic!"
 date: 2026-09-11
 description: "A personal update on Medi-Cal reassurance and corrected CalFresh benefit calculations after moving into housing and work."
 tags: [Chico, CalFresh, Medi-Cal, employment, benefits]
-categories: [Personal Journey, Benefits]
 ---
 
 **I am ecstatic!** I contacted the social services concerned about them cutting my medical assistance like they did my food assistance ... they assured me that I will not lose my health insurance …
