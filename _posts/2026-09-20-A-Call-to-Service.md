@@ -4,7 +4,6 @@ title: "A Call to Service"
 date: 2026-09-20
 description: "A call to make helping our neighbors a regular part of community life, not just an occasional gesture."
 tags: [Chico, community service, volunteering, civic responsibility]
-categories: [Community, Advocacy]
 ---
 
 We all love to complain about the problems in our communities. Homelessness, housing, crime, poverty, addiction, mental health, the cost of living, and government ...
