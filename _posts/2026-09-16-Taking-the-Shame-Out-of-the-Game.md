@@ -4,7 +4,6 @@ title: "Taking the Shame Out of the Game"
 date: 2026-09-16
 description: "Why shame and stigma should not determine whether someone facing addiction receives compassion or support."
 tags: [Chico, addiction stigma, dignity, compassion, harm reduction]
-categories: [Community, Advocacy]
 image: /images/facebook-2026/2026-09-19-addiction-dignity.jpg
 ---
 
