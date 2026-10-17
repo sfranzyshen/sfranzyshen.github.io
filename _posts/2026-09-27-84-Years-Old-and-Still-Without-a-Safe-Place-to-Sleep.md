@@ -53,3 +53,9 @@ At 84, she deserves a safe place to sleep ... and the opportunity to keep living
 ---
 
 *This is a personal account based on what I understood in September 2026. I have omitted the resident's name and other identifying information.*
+
+---
+
+**My homelessness journey ... chapter 17 of 17**
+
+[← I Am Ecstatic]({% post_url 2026-09-11-I-am-ecstatic %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }})
