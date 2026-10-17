@@ -4,6 +4,7 @@ title: "The Moth and the Flame"
 date: 2026-09-21
 categories: [AI]
 tags: [AI]
+description: "My thoughts on using artificial intelligence for writing, creativity, and the risks of relying too heavily on it."
 ---
 
 I've been thinking about how much I use AI lately. Recently, I've started letting AI take the lead on almost all of my writing ... 
