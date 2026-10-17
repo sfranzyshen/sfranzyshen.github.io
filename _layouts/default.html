@@ -14,6 +14,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 <![endif]-->
 
+<style>
+/* Small editorial improvements for articles, without changing the Minimal theme. */
+.wrapper > section h2 { margin-top: 1.8rem; padding-bottom: .28rem; border-bottom: 1px solid #e5e9ed; }
+.wrapper > section blockquote { border-left: 4px solid #2d6386; padding: .35rem 1rem; background: #f7f9fb; margin-left: 0; }
+.wrapper > section img { max-width: 100%; height: auto; border-radius: 6px; }
+.post-topics { margin-top: 2rem; border-top: 1px solid #e1e5ea; padding: 1rem 0; line-height: 2.2; }
+.post-topics a { display: inline-block; margin: 0 .25rem .3rem 0; padding: .05rem .5rem; border-radius: 1rem; background: #eef3f7; color: #175071; text-decoration: none; font-size: .86em; }
+.post-topics a:hover, .post-topics a:focus { background: #dbeaf4; text-decoration: underline; }
+</style>
+
 <!-- GoatCounter -->
 <script data-goatcounter="https://sfranzyshen.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
@@ -67,6 +77,14 @@
 
   <section>
     {{ content }}
+    {% if page.collection == 'posts' and page.tags and page.tags.size > 0 %}
+    <nav class="post-topics" aria-label="Post topics">
+      <strong>Topics:</strong>
+      {% for tag in page.tags %}
+      <a href="{{ '/topics/' | relative_url }}#{{ tag | slugify }}">#{{ tag | replace: ' ', '' }}</a>
+      {% endfor %}
+    </nav>
+    {% endif %}
   </section>
 
   <footer>
