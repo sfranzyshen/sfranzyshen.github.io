@@ -4,6 +4,7 @@ title: "Day 2: Beggars Can't Be Choosers"
 date: 2026-07-22
 categories: [Homelessness, Personal Journey]
 tags: [Chico, homelessness, dignity, acceptance, personal experience]
+image: /images/facebook-2026/2026-07-22-shelter-meal.jpg
 ---
 
 *Originally posted on Facebook, July 22, 2026, on my second day at the shelter. Lightly edited for readability.*
