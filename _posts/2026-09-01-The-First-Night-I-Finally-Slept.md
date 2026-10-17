@@ -4,6 +4,7 @@ title: "The First Night I Finally Slept"
 date: 2026-09-01
 categories: [Homelessness, Personal Journey]
 tags: [Chico, homelessness, housing, sleep, dignity, independence]
+description: "After years of sleeping with one eye open, my first night in a rented room brought uninterrupted rest."
 ---
 
 *Written in October 2026, looking back on my first night in a rented room on September 1.*
