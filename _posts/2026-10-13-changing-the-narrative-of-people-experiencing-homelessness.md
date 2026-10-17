@@ -3,6 +3,9 @@ layout: default
 title: "Changing the Narrative of People Experiencing Homelessness"
 image: /images/paper-people-community.jpg
 date: 2026-10-13
+description: "Moving from blame toward belonging in conversations about people experiencing homelessness in Chico."
+tags: [Chico, homelessness, dignity, community, messaging]
+categories: [Homelessness, Advocacy]
 ---
 
 ### A Shift from Blaming to Belonging
