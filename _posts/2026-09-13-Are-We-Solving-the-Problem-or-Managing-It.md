@@ -4,7 +4,6 @@ title: "Homelessness: Are We Solving the Problem or Managing It?"
 date: 2026-09-13
 description: "An examination of whether homelessness funding and outcome measures reward service delivery more than permanent housing."
 tags: [Chico, homelessness, accountability, funding, housing policy]
-categories: [Homelessness, Research]
 image: /images/facebook-2026/2026-09-19-entry-exit-equation.jpg
 ---
 
