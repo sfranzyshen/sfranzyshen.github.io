@@ -4,6 +4,7 @@ title: "I Am Lucky ... But What About Everyone Else?"
 date: 2026-07-23
 categories: [Homelessness, Personal Journey]
 tags: [Chico, homelessness, Torres Shelter, barriers, dignity]
+image: /images/facebook-2026/2026-07-23-i-am-lucky.jpg
 ---
 
 *Adapted from my Facebook post of July 23, 2026. The descriptions of local shelter options reflect my understanding at the time.*
