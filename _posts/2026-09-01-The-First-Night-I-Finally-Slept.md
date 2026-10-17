@@ -11,6 +11,8 @@ description: "After years of sleeping with one eye open, my first night in a ren
 
 On September 1, I moved into a room in a house here in Chico.
 
+## One uninterrupted night
+
 And that first night, something happened that I hadn't experienced in years.
 
 **I slept all the way through the night.**
@@ -32,6 +34,8 @@ It's such a simple thing. Most people probably wouldn't even think to mention it
 A room doesn't magically fix everything. I still had rent to pay, work to figure out, and plenty of uncertainty about what came next.
 
 But for the first time in a very long time, I had a private place to sleep ... and I could finally rest.
+
+## What a room can mean
 
 That's one of the things I want people to understand about housing. It's not just a roof or a bed or somewhere to put your belongings.
 
