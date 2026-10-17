@@ -4,7 +4,6 @@ title: "People First"
 date: 2026-09-19
 description: "Why acknowledging people experiencing homelessness with eye contact and respect can make a difference."
 tags: [Chico, homelessness, dignity, compassion, community]
-categories: [Homelessness, Community]
 image: /images/facebook-2026/2026-09-19-individualized-help.jpg
 ---
 
