@@ -4,7 +4,6 @@ title: "**Being homeless is being in a constant state of panic ...**"
 date: 2026-07-30
 description: "The daily anxiety of losing control over possessions, personal safety, and time while living without housing."
 tags: [Chico, homelessness, anxiety, dignity, belongings]
-categories: [Homelessness, Personal Journey]
 ---
 
 Being homeless is being in a constant state of panic ... Panic attacks becomes the norm... 
