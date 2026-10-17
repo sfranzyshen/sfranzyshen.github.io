@@ -4,7 +4,6 @@ title: "Finally a letter I agree with 💯"
 date: 2026-08-08
 description: "Sharing and responding to a letter to the editor urging Chico to develop a more effective approach to homelessness."
 tags: [Chico, homelessness, city council, public policy]
-categories: [Homelessness, Community]
 ---
 
 "Letter to the Editor: Chico still needs a plan for addressing homelessness
