@@ -41,6 +41,12 @@ Some of these chapters are lightly edited Facebook posts written **as events hap
 
 17. **September 27** ... [84 Years Old and Still Without a Safe Place to Sleep]({% post_url 2026-09-27-84-Years-Old-and-Still-Without-a-Safe-Place-to-Sleep %}) ... A neighbor's need for safety, privacy, and independence.
 
+## Continuing the story ... October 2026
+
+The first 17 chapters document what happened while I was navigating homelessness and finding my way into housing. **The story continues** as I help other neighbors, work with local organizations, and try to find common ground across Chico.
+
+- **October 17** ... [My Homelessness Ended ... But My Work Didn't]({% post_url 2026-10-17-My-Homelessness-Ended-But-My-Work-Didnt %}) ... Updates on two older neighbors, a community conversation with Barbara Poppe, and an invitation to meet with Mayor Kasey Reynolds.
+
 ---
 
 ## About these accounts
