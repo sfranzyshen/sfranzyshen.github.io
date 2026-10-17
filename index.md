@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "Navigating America from the Bottom Up"
+description: "Scotty Franzyshen's personal reflections on homelessness, housing, work, community, and life in Butte County, California."
+image: /images/New_logo.png
 ---
 
 # Navigating America from the Bottom Up
