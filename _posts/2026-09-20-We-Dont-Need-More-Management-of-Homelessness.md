@@ -10,7 +10,7 @@ description: "Examining homelessness counts, programs, and spending while asking
 I've been looking more closely at how we count, track, manage, and fund homelessness in Chico and Butte County.
 
 <audio controls>
-  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-20-We-Dont-Need-More-Management-of-Homelessness.m4a" type="audio/mpeg">
+  <source src="https://github.com/sfranzyshen/sfranzyshen.github.io/raw/refs/heads/master/audio/2026-09-20-We-Dont-Need-More-Management-of-Homelessness.m4a" type="audio/mp4">
 </audio>
 
 And the more I look, the more complicated the system becomes.
