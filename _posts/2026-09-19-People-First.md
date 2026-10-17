@@ -5,11 +5,18 @@ date: 2026-09-19
 description: "Why acknowledging people experiencing homelessness with eye contact and respect can make a difference."
 tags: [Chico, homelessness, dignity, compassion, community]
 categories: [Homelessness, Community]
+image: /images/facebook-2026/2026-09-19-individualized-help.jpg
 ---
 
 One of the smallest things we can do for someone experiencing homelessness is also one of the biggest: **acknowledge them.**
 
 Homeless people are people first and foremost. They have feelings, thoughts, hopes, fears, histories, and dreams just like everyone else. Losing a place to live does not make someone less human.
+
+![My graphic about dignity and individualized support for people in different circumstances]({{ '/images/facebook-2026/2026-09-19-individualized-help.jpg' | relative_url }})
+
+*Not everyone needs the same program ... dignity includes individualized assistance.*
+
+
 
 Yet it is surprisingly easy for people who are homeless to become invisible. People walk past without making eye contact. They look away. They pretend they aren't there. Sometimes it seems as though society has decided that if someone doesn't fit comfortably into the world around them, it is easier to simply stop seeing them.
 
