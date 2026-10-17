@@ -4,6 +4,7 @@ title: "Community Support Specialist"
 date: 2026-09-22
 categories: [Homelessness, Advocacy, Community]
 tags: [homelessness, advocacy, Chico, community, housing, problem solving]
+description: "Why I call myself a Community Support Specialist and how my experience can help neighbors navigate services."
 ---
 
 **Homeless advocacy is what I do. I help solve problems.** After a long period of being unemployed and unhoused, I have first-hand experience navigating the system. I have learned things that have helped me become employed and housed here in Chico. I still have work to do on myself, but I feel I could be of help and a resource to others who are now in the same boat.
