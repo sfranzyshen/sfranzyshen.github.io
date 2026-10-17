@@ -15,3 +15,9 @@ I am only working 16 hours per week ... and nearly half my income goes directly 
 This is just another example of a system that can be (and is) punitive at times ... intentional or not ... when it is needed the most.
 Right now, my biggest fear ... is that becoming employed and housed will disqualify me from my Medi-Cal assistance ... that I am depending on for my life! Literally. 😁
 Shared post
+
+---
+
+**My homelessness journey ... chapter 15 of 17**
+
+[← The First Night I Finally Slept]({% post_url 2026-09-01-The-First-Night-I-Finally-Slept %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [I Am Ecstatic →]({% post_url 2026-09-11-I-am-ecstatic %})
