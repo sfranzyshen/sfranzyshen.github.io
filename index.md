@@ -27,7 +27,9 @@ I am opinionated and blunt in my ways ... but I try not to be critical or judgme
 
 From my first night at the shelter to my first uninterrupted night's sleep in a private room ... a chronological series of personal accounts, original Facebook photographs, and reflections on finding a way forward in Chico.
 
-**[Read the full 17-chapter journey →]({{ '/homelessness-journey/' | relative_url }})**
+**[Read the 17-chapter journey and continuing updates →]({{ '/homelessness-journey/' | relative_url }})**
+
+*New October update: [My Homelessness Ended ... But My Work Didn't]({% post_url 2026-10-17-My-Homelessness-Ended-But-My-Work-Didnt %}).*
 
 ---
 
