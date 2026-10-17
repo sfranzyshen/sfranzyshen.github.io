@@ -12,6 +12,30 @@ On September 1, I moved into a room of my own.
 
 That first night, I slept all the way until morning. I hadn't done that in years. Even when I was sleeping on the warehouse floor, I always seemed to have one eye open.
 
+## Detoxing from homelessness
+
+For the first time in a very long time ... **I'm actually relaxing.**
+
+I'm no longer carrying a tote bag everywhere I go. I can leave my things in my room and know they'll be there when I come back.
+
+I'm sleeping through the night. I'm not having panic attacks all day long like I was before.
+
+It's almost as if my mind and body are finally figuring out that they don't have to be on alert every minute.
+
+**I'm detoxing from homelessness.**
+
+I don't know a better way to describe it.
+
+And there's another milestone coming that might sound pretty ordinary to most people ... **I'm going to have a bed.**
+
+My parents have agreed to buy me a bed frame and mattress. It's been over 15 years since I've slept in an actual bed. For so long, I've been sleeping on the ground in a bedroll that it became normal.
+
+Now I'm going to find out what sleeping in a bed is like again.
+
+I hope I like it! 😁
+
+These might seem like small things, but to me they're huge. Having a room was the first step. Learning how to relax in it ... that's something else entirely.
+
 Getting a room changed my life ... but it didn't make me forget the people I met while I was experiencing homelessness.
 
 I'm still thinking about them. And now, when I can, I'm helping them work through some of the same obstacles I had to navigate.
@@ -54,6 +78,36 @@ We haven't had that conversation yet, and I don't want to presume where it will 
 
 If we want to make progress, we have to be willing to talk to each other ... even when we don't agree about everything.
 
+## Five to Thrive ... giving a little back
+
+Something else has changed lately. I've given away more money in the last few weeks than I made all last year.
+
+I like carrying $5 bills and handing one to somebody who could use it.
+
+I call it **“5 to Thrive.”** 😁
+
+The *five* also stands for five basic needs that I believe should be provided on a not-for-profit basis:
+
+- **Shelter**
+- **Water**
+- **Food**
+- **Healthcare**
+- **Education**
+
+Those five things are at the foundation of a dignified life, as far as I'm concerned.
+
+The other day, I wanted some $5 bills, so I took $40 out of an ATM and went to get change. But the bank wouldn't simply exchange my money for eight fives. I had to show identification and deposit the $40 back into my account before they would give me the smaller bills.
+
+All that ... just so I could hand out a few fives. 🤔
+
+Why were they so protective of $5 bills? Is there some concern about illegal activity, or is this simply how the bank keeps track of cash exchanges? I don't know.
+
+I just know it struck me as a strange amount of bureaucracy for forty dollars.
+
+Anyway ... I got my fives.
+
+And I intend to keep sharing them when I can.
+
 ## Not a victory lap ... just the next steps
 
 I'm not going to pretend that a hotel room is a home, that a shelter bed fixes homelessness, or that a possible placement is the same thing as a placement.
@@ -66,7 +120,7 @@ I still have questions about the system. I still believe we need more options. A
 
 At the same time, I want to keep doing what I can ... one phone call, one conversation, one neighbor at a time.
 
-**My homelessness ended. My concern for my neighbors didn't.**
+**My homelessness ended. I'm finally learning to relax ... but my concern for my neighbors didn't end with it.**
 
 **Building • Fixing • Serving.** 😁
 
