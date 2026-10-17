@@ -8,6 +8,10 @@ tags: [Chico, homelessness, dignity, acceptance, personal experience]
 
 *Originally posted on Facebook, July 22, 2026, on my second day at the shelter. Lightly edited for readability.*
 
+![A meal served at the shelter, photographed July 22, 2026]({{ '/images/facebook-2026/2026-07-22-shelter-meal.jpg' | relative_url }})
+
+*The meal tray photograph I shared with the original Facebook post.*
+
 I am grateful for the life I have ... the love of my family ... the friends I have made ... and the memories I cherish!
 
 Judged by this society ... there is something wrong with me ... and I can only assume that to be true.
@@ -35,3 +39,9 @@ We all deserve to be accepted and cared for.
 Some people in this world would tell you otherwise. I don't know about you ... I think *they* are the sick ones.
 
 We need to build a world where even the broken are accepted and included in a dignified society.
+
+---
+
+**My homelessness journey ... chapter 3 of 17**
+
+[← My First Night at the Shelter]({% post_url 2026-07-21-well-the-first-night-at-the-shelter %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [Now for the Reality of Things →]({% post_url 2026-07-22-Now-for-the-reality-of-things %})
