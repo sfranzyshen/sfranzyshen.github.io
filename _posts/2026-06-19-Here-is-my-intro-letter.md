@@ -2,6 +2,9 @@
 layout: default
 title: "Here is my intro letter … please provide constructive criticisms …"
 date: 2026-06-19
+description: "My introduction to the Chico community and search for housing, part-time work, and ways to contribute."
+tags: [Chico, employment, housing, community service]
+categories: [Personal Journey, Community]
 ---
 
 Here is my intro letter … please provide constructive criticisms … 
