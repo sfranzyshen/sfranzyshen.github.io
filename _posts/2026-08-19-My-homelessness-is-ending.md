@@ -11,3 +11,9 @@ My experience, while slightly traumatizing, has given me an understanding that I
 I am going to make it my mission to either help fix the existing system, or burn it all down and start over, because the status quo isn't working — at least not for the ones who need it the most.
 ~peace 
 Scotty 😁
+
+---
+
+**My homelessness journey ... chapter 10 of 17**
+
+[← At the Facility]({% post_url 2026-08-13-At-the-Facility-there-is-a-great-room %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [Six Miles a Day →]({% post_url 2026-08-24-Six-Miles-a-Day-Finding-Freedom-on-Two-Wheels %})
