@@ -6,7 +6,6 @@ date: 2026-10-02
 description: "I am writing to request a review of the **City of Chico's implementation of its affordable-housing obligations** and its policies concerning people experiencing homelessness.
 "
 tags: [Chico, Attorney General, housing policy, accountability, complaint]
-categories: [Housing, Advocacy]
 ---
 
 ## Complaint Regarding the City of Chico's Housing Obligations and Homelessness Policy
