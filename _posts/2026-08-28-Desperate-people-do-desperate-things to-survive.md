@@ -4,7 +4,6 @@ title: "Desperate people do desperate things to survive"
 date: 2026-08-28
 description: "A call to replace punishment and shame with individualized, dignified routes toward housing and independence."
 tags: [Chico, homelessness, dignity, compassion]
-categories: [Homelessness, Advocacy]
 ---
 
 Desperate people do desperate things to survive.
