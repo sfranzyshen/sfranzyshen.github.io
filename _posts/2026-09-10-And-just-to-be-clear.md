@@ -2,6 +2,9 @@
 layout: default
 title: "And just to be clear ... "
 date: 2026-09-10
+description: "My September 2026 experience of a sharp CalFresh benefit reduction after starting part-time work and renting a room."
+tags: [Chico, CalFresh, employment, housing, benefits]
+categories: [Personal Journey, Benefits]
 ---
 
 And just to be clear ... this isn't a plea for help. It's just another chapter in my ongoing adventures in US America. 😁
