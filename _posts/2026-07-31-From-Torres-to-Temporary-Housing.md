@@ -13,11 +13,15 @@ On July 31, I had some good news to share.
 
 > I'd like to let everyone know that I found temporary housing in Chico ... I'm not supposed to say anything about where I am ... But I'm in Club Med compared to where I was ...
 
+## A chance to regroup
+
 That's how I described it at the time. **Club Med.** 😁
 
 Not because I had suddenly landed in luxury ... but because after my time at Torres, simply being somewhere that felt more manageable made a world of difference.
 
 A little more breathing room. A chance to regroup. A place where I might get some rest and work out what came next.
+
+## Still not a home
 
 There were still rules. As I explained in the original post:
 
@@ -28,6 +32,8 @@ I wasn't pretending that temporary accommodations were the same as having a home
 But I had taken an important step.
 
 I'd spent time feeling trapped in a system with very few ways forward. Now I had a little space to concentrate on the next part of the journey ... working, finding more stable housing, and getting my life back onto terms that made sense for me.
+
+## The good news I wanted to share
 
 Most importantly, I wanted everyone who'd supported me to know that this was **good news**.
 
