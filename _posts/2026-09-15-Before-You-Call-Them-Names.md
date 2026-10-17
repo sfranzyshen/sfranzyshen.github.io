@@ -2,6 +2,9 @@
 layout: default
 title: "Before You Call Them Names"
 date: 2026-09-15
+description: "An appeal to recognize the humanity of neighbors experiencing homelessness before using dehumanizing labels."
+tags: [Chico, homelessness, dignity, language, compassion]
+categories: [Homelessness, Community]
 ---
 
 Before you call someone **“vermin,” “a rodent,” “a dirtbag,”** or whatever other degrading name you can think of, please stop for a moment and remember: **you are talking about another human being.**
