@@ -4,7 +4,6 @@ title: "My homelessness is ending"
 date: 2026-08-19
 description: "Announcing that I found a room to rent in Chico, and reflecting on what comes next after homelessness."
 tags: [Chico, homelessness, housing, new beginnings]
-categories: [Personal Journey, Housing]
 ---
 
 **My homelessness is ending.** I will be taking rent on a room full-time in September, in a house here in Chico.
