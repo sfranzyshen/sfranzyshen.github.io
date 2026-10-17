@@ -4,7 +4,6 @@ title: "I want to understand ..."
 date: 2026-09-12
 description: "Questions about how homelessness programs are funded, measured, and held accountable for lasting housing outcomes."
 tags: [Chico, homelessness, accountability, funding, housing]
-categories: [Homelessness, Policy]
 ---
 
 **I want to understand whether the way we fund and measure homelessness services creates incentives to manage homelessness rather than eliminate it. 🤔**
