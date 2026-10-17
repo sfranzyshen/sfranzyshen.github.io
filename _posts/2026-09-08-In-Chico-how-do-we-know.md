@@ -2,6 +2,9 @@
 layout: default
 title: "🤔 In Chico ... how do we know"
 date: 2026-09-08
+description: "Asking whether Chico homelessness spending measures transitions to permanent housing or just service activity."
+tags: [Chico, homelessness, accountability, housing policy]
+categories: [Homelessness, Policy]
 ---
 
 🤔 In Chico ... how do we know that the services we're funding are actually moving people toward permanent housing rather than simply moving people from one service or facility to another?
