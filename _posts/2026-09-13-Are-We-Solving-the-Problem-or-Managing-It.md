@@ -5,7 +5,12 @@ date: 2026-09-13
 description: "An examination of whether homelessness funding and outcome measures reward service delivery more than permanent housing."
 tags: [Chico, homelessness, accountability, funding, housing policy]
 categories: [Homelessness, Research]
+image: /images/facebook-2026/2026-09-19-entry-exit-equation.jpg
 ---
+
+![My original entry-and-exit equation for homelessness, focusing on housing exits]({{ '/images/facebook-2026/2026-09-19-entry-exit-equation.jpg' | relative_url }})
+
+*A graphic I shared in September 2026 about measuring entries into and exits from homelessness.*
 
 I want to understand whether the way we fund and measure homelessness services creates incentives to **manage homelessness rather than eliminate it.** 🤔
 
