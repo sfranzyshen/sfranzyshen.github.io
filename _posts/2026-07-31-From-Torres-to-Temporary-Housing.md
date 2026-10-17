@@ -41,3 +41,9 @@ And I wanted to keep moving.
 ---
 
 *Related: [Being homeless is being in a constant state of panic]({% post_url 2026-07-30-Being-homeless-is-being-in-a-constant-state-of-panic %}) and [My homelessness is ending]({% post_url 2026-08-19-My-homelessness-is-ending %}).*
+
+---
+
+**My homelessness journey ... chapter 7 of 17**
+
+[← Constant State of Panic]({% post_url 2026-07-30-Being-homeless-is-being-in-a-constant-state-of-panic %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [If You Don't Understand →]({% post_url 2026-08-13-If-you-don't-understand %})
