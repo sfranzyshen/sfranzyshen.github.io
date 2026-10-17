@@ -4,6 +4,7 @@ title: "We Don't Need More Management of Homelessness. We Need More Housing."
 date: 2026-09-20
 categories: [Homelessness, Advocacy, Community]
 tags: [homelessness, advocacy, Chico, community, housing, problem solving]
+description: "Examining homelessness counts, programs, and spending while asking for more permanent housing outcomes in Chico."
 ---
 
 I've been looking more closely at how we count, track, manage, and fund homelessness in Chico and Butte County.
