@@ -2,6 +2,9 @@
 layout: default
 title: "A Bill of Responsibilities"
 date: 2026-09-20
+description: "A proposed Bill of Responsibilities emphasizing civic participation, community care, respect, and shared responsibility."
+tags: [civic responsibility, community, service, ethics]
+categories: [Community, Opinion]
 ---
 
 We the people, recognizing that the rights we enjoy are sustained by the responsibilities we share, establish this Bill of Responsibilities as a reminder that citizenship is not only about what we are free to receive, but also about what we are willing to contribute.
