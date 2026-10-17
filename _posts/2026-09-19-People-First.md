@@ -18,6 +18,8 @@ Homeless people are people first and foremost. They have feelings, thoughts, hop
 
 
 
+## The simple power of being seen
+
 Yet it is surprisingly easy for people who are homeless to become invisible. People walk past without making eye contact. They look away. They pretend they aren't there. Sometimes it seems as though society has decided that if someone doesn't fit comfortably into the world around them, it is easier to simply stop seeing them.
 
 I don't think that is who we should be as a society.
@@ -31,6 +33,8 @@ Make eye contact. Say hello. Nod your head. Wave. Ask someone how they are doing
 Just let them know that you see them.
 
 There is something powerful about being seen.
+
+## Meet people where they are
 
 We also need to be willing to meet people where they are instead of insisting that they first become the person we think they should be. People don't all arrive at the same place by the same road, and they don't all need the same thing to move forward.
 
