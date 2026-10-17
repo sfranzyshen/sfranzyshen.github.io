@@ -2,6 +2,9 @@
 layout: default
 title: "What Did Chico's Housing Money Actually Produce?"
 date: 2026-09-19
+description: "Looking at Chico's 2025–2026 CAPER report to ask what federal housing funds accomplished."
+tags: [Chico, CAPER, CDBG, HOME, accountability]
+categories: [Housing, Research]
 ---
 
 The City of Chico's **2025–2026 Consolidated Annual Performance and Evaluation Report (CAPER)** provides a look at how federal Community Development Block Grant (CDBG) and HOME funds were used during the year.
