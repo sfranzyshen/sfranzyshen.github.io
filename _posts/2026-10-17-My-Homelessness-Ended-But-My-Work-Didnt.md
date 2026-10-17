@@ -72,6 +72,6 @@ At the same time, I want to keep doing what I can ... one phone call, one conver
 
 ---
 
-*This entry describes what I understood and was working on as of October 17, 2026. The older residents' names, lodging details, and identifying information are intentionally withheld. Pending benefits, temporary placements, and CHAT housing possibilities should not be read as confirmed outcomes.*
+*This entry describes what I understood and was working on as of October 17, 2026. The older residents' names and exact lodging locations are intentionally withheld. Pending benefits, temporary placements, and CHAT housing possibilities should not be read as confirmed outcomes.*
 
 *Related: [The First Night I Finally Slept]({% post_url 2026-09-01-The-First-Night-I-Finally-Slept %}) · [84 Years Old and Still Without a Safe Place to Sleep]({% post_url 2026-09-27-84-Years-Old-and-Still-Without-a-Safe-Place-to-Sleep %}) · [My Homelessness Journey]({{ '/homelessness-journey/' | relative_url }})*
