@@ -18,6 +18,8 @@ I am grateful for the life I have ... the love of my family ... the friends I ha
 
 Judged by this society ... there is something wrong with me ... and I can only assume that to be true.
 
+## Being told I was broken
+
 One of my earliest, very vivid memories in life is overhearing my father calling me **broken**. That really stuck.
 
 Then, for the years to follow, teachers, counselors, and my parents did everything they could to fix me. They talked to me. They medicated me. They told me that there was something wrong with me, but that they were there to help me through it.
@@ -29,6 +31,8 @@ When nothing changed me ... they turned to locking me in detentions. They took a
 But what they failed to see is ... **I didn't choose this.** I didn't decide who ... or what ... I was going to be. I just was me.
 
 And after all of the negative or positive reinforcement that was jammed up my ass to "FIX" me didn't work ... is it any surprise I became exactly what they saw for me?
+
+## All I'm asking for
 
 I'm not looking to blame anyone. I love everyone ... even those who hate me the most.
 
