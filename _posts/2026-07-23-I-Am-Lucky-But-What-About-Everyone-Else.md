@@ -8,6 +8,10 @@ tags: [Chico, homelessness, Torres Shelter, barriers, dignity]
 
 *Adapted from my Facebook post of July 23, 2026. The descriptions of local shelter options reflect my understanding at the time.*
 
+![My original July 23 Facebook graphic: I am grateful, I am thankful, I am lucky]({{ '/images/facebook-2026/2026-07-23-i-am-lucky.jpg' | relative_url }})
+
+*The original graphic accompanying this Facebook post.*
+
 I am not a felon.
 
 I am not wanted (only loved and hated).
@@ -82,3 +86,9 @@ But what about everyone else?
 ---
 
 *This account describes what I experienced and believed in July 2026. It is not intended as an exhaustive or current guide to Chico shelter eligibility and policies.*
+
+---
+
+**My homelessness journey ... chapter 5 of 17**
+
+[← Now for the Reality of Things]({% post_url 2026-07-22-Now-for-the-reality-of-things %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [Constant State of Panic →]({% post_url 2026-07-30-Being-homeless-is-being-in-a-constant-state-of-panic %})
