@@ -84,11 +84,11 @@ Something else has changed lately. I've given away more money in the last few we
 
 I like carrying $5 bills and giving them away ... not just to people experiencing homelessness.
 
-Sometimes I'll pop into a coffee shop or another little eatery and put a five in the tip jar. I don't need to buy anything or have a special reason. I just figure the people working there can use it.
+Sometimes I'll pop into a coffee shop or another eatery and put a five in the tip jar ... for no reason other than I figure the people working there can use it.
 
-Sometimes I'll hand a five to somebody on the street.
+Sometimes I'll hand a five to somebody experiencing homelessness.
 
-**I don't do it for recognition or because I think I know who needs it most. I just like to give.**
+It's not limited to one group of people. **I just like to share what I can, where I can.**
 
 I call it **“5 to Thrive.”** 😁
 
