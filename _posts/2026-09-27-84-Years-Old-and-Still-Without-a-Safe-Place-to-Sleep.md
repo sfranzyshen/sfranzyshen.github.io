@@ -4,6 +4,7 @@ title: "84 Years Old and Still Without a Safe Place to Sleep"
 date: 2026-09-27
 categories: [Homelessness, Community]
 tags: [Chico, seniors, Torres Shelter, dignity, housing options]
+description: "The experience of an 84-year-old neighbor highlights the need for safe, private options beyond shelter dormitories."
 ---
 
 *Adapted from my Facebook post of September 27, 2026. The resident is not named; details about her situation reflect my account at the time.*
