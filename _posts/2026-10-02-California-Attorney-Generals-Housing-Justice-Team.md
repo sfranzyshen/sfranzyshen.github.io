@@ -3,8 +3,7 @@ layout: default
 title: "California Attorney General's Housing Justice Team"
 image: /images/Demystifying-DOJ-Housing.png
 date: 2026-10-02
-description: "I am writing to request a review of the **City of Chico's implementation of its affordable-housing obligations** and its policies concerning people experiencing homelessness.
-"
+description: "My October 2026 request for California's Housing Justice Team to review Chico's housing policies and obligations."
 tags: [Chico, Attorney General, housing policy, accountability, complaint]
 ---
 
