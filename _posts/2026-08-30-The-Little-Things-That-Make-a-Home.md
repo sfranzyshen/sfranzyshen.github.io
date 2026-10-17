@@ -50,6 +50,10 @@ By August 30, I was thanking people who had helped with some very basic furnitur
 
 > Thank you to Miloh and the Tech Toss crew for helping me to get a desk and chair! I can't wait for the next yard sale ... there was so much stuff I wanted 😁 they're a real asset to this town.
 
+![The desk and chair I received through Miloh and Tech Toss in August 2026]({{ '/images/facebook-2026/2026-08-30-desk-and-chair.jpg' | relative_url }})
+
+*The desk and chair I photographed and shared on August 30, 2026.*
+
 It's funny how much a desk and a chair can mean.
 
 For me, they meant a place to work on things. To write. To repair something. To plan the next project. To be useful.
@@ -69,3 +73,9 @@ A desk and a chair are a pretty good place to start. 😁
 ---
 
 *Related: [My homelessness is ending]({% post_url 2026-08-19-My-homelessness-is-ending %}).*
+
+---
+
+**My homelessness journey ... chapter 13 of 17**
+
+[← I Have Everything I Need ... Except a J.O.B.]({% post_url 2026-08-28-I-Have-Everything-I-Need-Except-a-Job %}) · [All chapters]({{ '/homelessness-journey/' | relative_url }}) · [The First Night I Finally Slept →]({% post_url 2026-09-01-The-First-Night-I-Finally-Slept %})
