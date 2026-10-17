@@ -5,6 +5,7 @@ date: 2026-09-16
 description: "Why shame and stigma should not determine whether someone facing addiction receives compassion or support."
 tags: [Chico, addiction stigma, dignity, compassion, harm reduction]
 categories: [Community, Advocacy]
+image: /images/facebook-2026/2026-09-19-addiction-dignity.jpg
 ---
 
 So you’re struggling with an addiction. <sub>updated: 10/04/2026</sub>
@@ -20,6 +21,12 @@ Maybe you’ve tried to stop before and couldn’t.
 Either way, you are still a human being.
 
 And you still deserve to be treated with dignity and respect.
+
+![An original graphic about dignity and respecting people experiencing addiction]({{ '/images/facebook-2026/2026-09-19-addiction-dignity.jpg' | relative_url }})
+
+*A graphic I shared in September 2026 about addiction and dignity.*
+
+
 
 ## Let’s Take the Shame Out of the Game
 
