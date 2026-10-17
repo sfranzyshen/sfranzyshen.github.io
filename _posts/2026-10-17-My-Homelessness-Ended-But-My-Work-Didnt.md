@@ -4,6 +4,7 @@ title: "My Homelessness Ended ... But My Work Didn't"
 date: 2026-10-17
 categories: [Homelessness, Personal Journey, Community]
 tags: [Chico, homelessness, community, older adults, housing, advocacy]
+description: "Recovering after homelessness, Five to Thrive, and helping two older neighbors find safer housing options."
 ---
 
 *An October 2026 update on the people and conversations that have become part of my life since finding housing. The two older residents described here are deliberately unnamed. Their situations are still changing.*
