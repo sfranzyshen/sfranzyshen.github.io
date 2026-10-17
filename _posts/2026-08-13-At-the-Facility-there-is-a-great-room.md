@@ -2,6 +2,9 @@
 layout: default
 title: "At the Facility there is a great room with two wings ..."
 date: 2026-08-13
+description: "Personal observations from a temporary housing facility and questions about the nonprofit service system."
+tags: [Chico, temporary housing, homelessness, accountability]
+categories: [Homelessness, Personal Journey]
 ---
 
 At the "Facility" there is a great room with two wings ... and each wing has two halls ... each hall has seven rooms ... with two people per room ... that works out to be fifty six people who are under the care of this place ... I see it is very much a business around here ... and the cracks of capitalism shines brightly even in the nonprofit sectors in the USA ... 
