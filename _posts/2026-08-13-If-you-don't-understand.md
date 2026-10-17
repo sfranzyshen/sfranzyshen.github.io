@@ -2,6 +2,9 @@
 layout: default
 title: "If you don't understand ..."
 date: 2026-08-13
+description: "My firsthand reflections on how homelessness consumes time, limits independence, and keeps the nervous system on alert."
+tags: [Chico, homelessness, shelter, dignity, time]
+categories: [Homelessness, Personal Journey]
 ---
 
 If you don't understand ... Spend a day in the shoes of a homeless person ... well maybe not 😂
