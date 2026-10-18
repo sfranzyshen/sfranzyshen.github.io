@@ -45,6 +45,42 @@ That word captured how I felt about the life I was living then. It was an advent
 
 My later experiences navigating homelessness in Chico have been very different. Both are part of my story, and I don't want to pretend that every experience of living without conventional housing feels the same.
 
+## The night I got rousted on Treasure Island
+
+Of course, not every part of being homefree was peaceful.
+
+There was one night during the Letucia rebuild when I decided to sleep in the van on Treasure Island. I'd put up black curtains so nobody could see inside.
+
+Then the cops showed up.
+
+One officer got very aggressive trying to open the van door. He pulled so hard that he **broke the door handle** ... but the door still wouldn't open.
+
+Those old van doors had a double latch. If you didn't close the door all the way, the first latch would catch and hold it locked, but the door could still move in and out a little. Push hard enough and it would catch the second latch and close firmly.
+
+Well ... this cop kept banging and pulling on the door, trying to get it open. But that first latch held.
+
+At one point, the other officer suggested maybe nobody was inside.
+
+The first cop was getting angrier and insisted he knew somebody was in there because he could see my shoes on the floor.
+
+And he kept going at the door.
+
+Eventually they stopped and went back to sit in their patrol car. They'd threatened to have the van towed.
+
+At that point, considering how angry that one officer seemed, I was thinking ... **Great!** 😳
+
+But the tow truck never came.
+
+After nearly an hour, the officers finally drove away. In the very early hours of the morning, I moved the van off Treasure Island.
+
+**I never tried to sleep on the island again.**
+
+I remember thinking that if that officer had managed to get his hands on me, he might have beaten me up. I don't know what would actually have happened ... but that's how threatened I felt in that moment.
+
+Funny thing is ... for all the adventures I had in San Francisco, **the only people I ever felt threatened by there were the cops.** LOL.
+
+And that's another part of the story behind that old photograph. What looked like a comfortable little home on wheels could still leave me vulnerable to someone deciding I didn't belong where I'd parked it.
+
 ## Every person has a story
 
 And that's really what I want people to understand when they look at this picture.
