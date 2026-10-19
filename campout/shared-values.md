@@ -31,6 +31,15 @@ image:
 
 > **We do not have to agree on every policy to begin with shared humanity.**
 
+## Why We're Here ... A Conversation, Not an Argument
+
+Our approach to homelessness may appear left-leaning ... but this isn't about left or right. The best available research, studies, science, and real-world results help us understand what works and what doesn't. Facts are facts, and results are results.
+
+People with different perspectives are welcome to bring countering research and challenge the resources we recommend. Our project does not recommend “treatment first” materials, but disagreement does not exclude anyone from the conversation.
+
+We are not here to tell people what to think or how things should be done ... we are here to start conversations. **Dialogue ... nothing more.** [Read the full statement]({{ '/campout/why-were-here/' | relative_url }}) or [download it as a PDF]({{ '/campout/downloads/why-were-here.pdf' | relative_url }}).
+
+
 This document proposes a common starting point for participating groups. Its foundation is Iain De Jong's OrgCode video, **[The Missing Piece in Ending Homelessness: Shared Values](https://www.orgcode.com/youtube-videos/v/29rnf5pc36ammyk3amwljabjep2h9e)** (October 30, 2025), alongside the existing purpose and educational-resource policy of Chico Campout for Compassion. It is an independent local adaptation, not an OrgCode publication or endorsement.
 
 The central question is simple: **Before we argue about strategies, what values do we share ... and how do those values show up in how we treat people?**

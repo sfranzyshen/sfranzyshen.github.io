@@ -1,39 +1,52 @@
 ---
 layout: default
 title: "One-Page Host Invitation ... Campout for Compassion 2026"
+description: "Options for hosting a one-night Campout for Compassion gathering ... all ages welcome, resources recommended rather than required."
 permalink: /campout/resources/host-invitation/
+image:
+  path: /campout/logo.svg
+  alt: "Chico Campout for Compassion 2026 logo"
 ---
 
-<style>
-.campout-document { font: 16px/1.72 system-ui,-apple-system,sans-serif; color:#17334c; }
-.campout-document h1,.campout-document h2 { color:#062a46; }
-.campout-document h2 { margin-top:2rem;border-bottom:1px solid #cee0e4;padding-bottom:.3rem; }
-.campout-document p {margin:.7rem 0; overflow-wrap:anywhere;}
-@media print {.campout-document {color:#111;font-size:12pt;} .print-help {display:none;} }
-</style>
-<main class="campout-document">
-<p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout event</a></p>
-<h1>One-Page Host Invitation</h1>
-<div class="resource-policy" style="background:#eff7f8;border-left:4px solid #006474;padding:.85rem 1rem;margin:1rem 0;">
-<strong>Recommended Resources ... Not Required</strong>
-<p>Our educational materials reflect a <strong>“shelter first” and lowest-barrier approach</strong> to addressing homelessness. They are recommended resources, not required material. If your group chooses not to use them, your participation is still encouraged.</p>
-<p><strong>Awareness doesn't take sides ... all voices and perspectives are encouraged.</strong> However, Campout for Compassion will not provide or recommend “treatment first” materials.</p>
-</div>
-<p><a href="{{ '/campout/downloads/host-invitation.pdf' | relative_url }}" download><strong>Download the Host Invitation (PDF) ↓</strong></a></p>
-<p><strong>Chico Campout for Compassion 2026</strong> · Saturday, November 14, 2026</p>
-<p class="print-help"><em>This is the online reading edition of the host material. You can use your browser's Print function to save or print it.</em></p>
-<p>CHICO CAMPOUT FOR COMPASSION • PRINTABLE ACTIVITIES</p>
-<h2>ONE PAGE • SHARE WITH PROSPECTIVE GROUPS</h2>
-<p>Hosting Campout for Compassion Saturday, November 14, 2026 | Chico, California</p>
-<p>One night. Many locations. One community. Every group can host its own supervised gathering to learn about homelessness and listen to neighbors with lived experience. No central fundraiser.</p>
-<p>Choose your participation • Evening gathering with guest speaker and age-appropriate activities.</p>
-<p>• Approved overnight campout with morning reflection.</p>
-<p>• Family discussion, educational service activity, or direct support as a partner.</p>
-<p>What we provide A free organizer guide, a suggested event program, and printable learning sheets for ages 6–10, 11–13, 14–17, and adults.</p>
-<p>What each host provides A coordinator; safe and permitted location; supervision, accessibility and weather plan; appropriate safeguarding for children; any invited speaker arrangements.</p>
-<p>What this is not No fundraising goal or central account. No requirement to sleep outside. No pretending that one night reproduces homelessness.</p>
-<p>Optional basic-needs giving Groups may collect approved supplies requested by an existing local program and deliver them directly. Financial donations, if any, are made directly to the recipient organization.</p>
-<p>Interested in hosting, speaking, or partnering? Scotty Franzyshen | scotty@sfranzyshen.org</p>
-<p><strong>Optional video discussions:</strong> Hosts may also select relevant videos and discussion prompts from the <a href="{{ '/campout/resources/videos/' | relative_url }}">Chico Campout video guide</a>. All videos require organizer review for audience suitability.</p>
-<p><a href="{{ '/campout/' | relative_url }}">← Back to Campout for Compassion</a></p>
-</main>
+[← Back to Campout for Compassion]({{ '/campout/' | relative_url }})
+
+**[Download the One-Page Host Invitation (PDF)]({{ '/campout/downloads/host-invitation.pdf' | relative_url }})**
+
+# Hosting Campout for Compassion
+
+**Saturday, November 14, 2026 ... Chico, California**  
+*One Night. Many Locations. One Community.*
+
+Every group can host its own supervised gathering to learn about homelessness and listen to neighbors with lived experience. No central fundraiser.
+
+## Choose your participation
+
+- Evening gathering with guest speaker and age-appropriate activities.
+- Approved overnight campout with morning reflection.
+- Family discussion, educational service activity, or direct support as a partner.
+
+## What we provide
+
+A free organizer guide, a suggested event program, and printable learning sheets for ages 6–10, 11–13, 14–17, and adults.
+
+## What each host provides
+
+A coordinator; safe and permitted location; supervision, accessibility and weather plan; appropriate safeguarding for children; any invited speaker arrangements.
+
+## What this is not
+
+No fundraising goal or central account. No requirement to sleep outside. No pretending that one night reproduces homelessness.
+
+## Optional basic-needs giving
+
+Groups may collect approved supplies requested by an existing local program and deliver them directly. Financial donations, if any, are made directly to the recipient organization.
+
+## Recommended resources ... not required
+
+Our materials reflect a “shelter first” and lowest-barrier approach. They are recommended, not required. All perspectives, questions, and countering material are welcome. We do not provide or recommend “treatment first” materials.
+
+**Why we are here:** We are not here to tell anyone what to think or how it should be done ... only to start conversations. [Read our full statement]({{ '/campout/why-were-here/' | relative_url }}).
+
+**Interested in hosting, speaking, or partnering?**  
+Scotty Franzyshen | scotty@sfranzyshen.org  
+https://www.sfranzyshen.org/campout/

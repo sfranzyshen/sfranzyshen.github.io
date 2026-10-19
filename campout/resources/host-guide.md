@@ -14,6 +14,11 @@ permalink: /campout/resources/host-guide/
 <main class="campout-document">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout event</a></p>
 <h1>Community Host and Facilitator Guide</h1>
+<div style="padding:.8rem 1rem;border-left:3px solid #e96b36;background:#fffaf5;margin:1rem 0;">
+<h2>Why We're Here ... A Conversation, Not an Argument</h2>
+<p>Our approach may appear left-leaning, but this event isn't about left or right. We welcome research, countering material, and different perspectives. We aren't here to tell anyone what to think or how it should be done ... only to start conversations.</p>
+<p><a href="{{ '/campout/why-were-here/' | relative_url }}">Read our full statement of purpose</a> · <a href="{{ '/campout/downloads/why-were-here.pdf' | relative_url }}" download>Download PDF</a></p>
+</div>
 <div class="resource-policy" style="background:#eff7f8;border-left:4px solid #006474;padding:.85rem 1rem;margin:1rem 0;">
 <strong>Recommended Resources ... Not Required</strong>
 <p>Our educational materials reflect a <strong>“shelter first” and lowest-barrier approach</strong> to addressing homelessness. They are recommended resources, not required material. If your group chooses not to use them, your participation is still encouraged.</p>
