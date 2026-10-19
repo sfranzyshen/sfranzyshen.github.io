@@ -93,5 +93,7 @@ permalink: /campout/resources/activities/
 <p>One way I could treat a neighbor with more dignity ...</p>
 <p>For overnight participants: What could you stop doing tomorrow that someone without a safe home cannot simply stop? (Keep the focus on differences, not equivalence.)</p>
 <p>End with this: “Our night was temporary. What we learned can stay with us.”</p>
+<h2>Optional companion videos for older groups</h2>
+<p>These age-appropriate activities remain usable without video. For teen and adult facilitators, the <a href="{{ '/campout/resources/videos/' | relative_url }}">video discussion guide</a> offers 15 optional OrgCode and Invisible People video links, suggestions for different age groups, and questions. Always preview material before playing it with minors, and give people the option to participate without watching.</p>
 <p><a href="{{ '/campout/' | relative_url }}">← Back to Campout for Compassion</a></p>
 </main>
