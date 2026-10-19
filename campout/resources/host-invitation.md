@@ -14,6 +14,7 @@ permalink: /campout/resources/host-invitation/
 <main class="campout-document">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout event</a></p>
 <h1>One-Page Host Invitation</h1>
+<p><a href="{{ '/campout/downloads/host-invitation.pdf' | relative_url }}" download><strong>Download the Host Invitation (PDF) ↓</strong></a></p>
 <p><strong>Chico Campout for Compassion 2026</strong> · Saturday, November 14, 2026</p>
 <p class="print-help"><em>This is the online reading edition of the host material. You can use your browser's Print function to save or print it.</em></p>
 <p>CHICO CAMPOUT FOR COMPASSION • PRINTABLE ACTIVITIES</p>
