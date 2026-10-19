@@ -14,6 +14,11 @@ permalink: /campout/resources/activities/
 <main class="campout-document">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout event</a></p>
 <h1>Age-Appropriate Educational Activities</h1>
+<div class="resource-policy" style="background:#eff7f8;border-left:4px solid #006474;padding:.85rem 1rem;margin:1rem 0;">
+<strong>Recommended Resources ... Not Required</strong>
+<p>Our educational materials reflect a <strong>“shelter first” and lowest-barrier approach</strong> to addressing homelessness. They are recommended resources, not required material. If your group chooses not to use them, your participation is still encouraged.</p>
+<p><strong>Awareness doesn't take sides ... all voices and perspectives are encouraged.</strong> However, Campout for Compassion will not provide or recommend “treatment first” materials.</p>
+</div>
 <p style="background:#e8f2f3;padding:.65rem .8rem;border-left:3px solid #006474;"><strong>Printing or writing by hand?</strong> Download the PDF above. It includes properly spaced lines, writing areas, and worksheet boxes. This webpage is the reading version.</p>
 <p><a href="{{ '/campout/downloads/activities.pdf' | relative_url }}" download><strong>Download Age-Appropriate Activities (PDF) ↓</strong></a></p>
 <p><strong>Chico Campout for Compassion 2026</strong> · Saturday, November 14, 2026</p>
