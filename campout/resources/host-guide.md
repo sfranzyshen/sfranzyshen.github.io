@@ -14,6 +14,7 @@ permalink: /campout/resources/host-guide/
 <main class="campout-document">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout event</a></p>
 <h1>Community Host and Facilitator Guide</h1>
+<p><a href="{{ '/campout/downloads/host-guide.pdf' | relative_url }}" download><strong>Download the Host Guide (PDF) ↓</strong></a> · <a href="{{ '/campout/downloads/video-discussion-guide.pdf' | relative_url }}" download>Download Video Guide (PDF)</a></p>
 <p><strong>Chico Campout for Compassion 2026</strong> · Saturday, November 14, 2026</p>
 <p class="print-help"><em>This is the online reading edition of the host material. You can use your browser's Print function to save or print it.</em></p>
 <p>COMMUNITY HOST &amp; FACILITATOR GUIDE</p>
