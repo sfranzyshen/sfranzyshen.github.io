@@ -28,5 +28,6 @@ permalink: /campout/resources/host-invitation/
 <p>What this is not No fundraising goal or central account. No requirement to sleep outside. No pretending that one night reproduces homelessness.</p>
 <p>Optional basic-needs giving Groups may collect approved supplies requested by an existing local program and deliver them directly. Financial donations, if any, are made directly to the recipient organization.</p>
 <p>Interested in hosting, speaking, or partnering? Scotty Franzyshen | scotty@sfranzyshen.org</p>
+<p><strong>Optional video discussions:</strong> Hosts may also select relevant videos and discussion prompts from the <a href="{{ '/campout/resources/videos/' | relative_url }}">Chico Campout video guide</a>. All videos require organizer review for audience suitability.</p>
 <p><a href="{{ '/campout/' | relative_url }}">← Back to Campout for Compassion</a></p>
 </main>
