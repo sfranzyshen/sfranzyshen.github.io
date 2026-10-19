@@ -23,6 +23,11 @@ image:
 <div class="camp-videos">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout home page</a></p>
 <h1>Video Discussion Guide</h1>
+<div class="resource-policy" style="background:#eff7f8;border-left:4px solid #006474;padding:.85rem 1rem;margin:1rem 0;">
+<strong>Recommended Resources ... Not Required</strong>
+<p>Our educational materials reflect a <strong>“shelter first” and lowest-barrier approach</strong> to addressing homelessness. They are recommended resources, not required material. If your group chooses not to use them, your participation is still encouraged.</p>
+<p><strong>Awareness doesn't take sides ... all voices and perspectives are encouraged.</strong> However, Campout for Compassion will not provide or recommend “treatment first” materials.</p>
+</div>
 <p><a href="{{ '/campout/downloads/video-discussion-guide.pdf' | relative_url }}" download><strong>Download the Video Discussion Guide (PDF) ↓</strong></a></p>
 <p><strong>Campout for Compassion 2026 · Saturday, November 14</strong></p>
 <p class="intro">Choose one video or an excerpt that fits your group. These are optional conversation starters ... not a required lesson plan, and not a substitute for a local conversation with someone who has experienced homelessness.</p>
