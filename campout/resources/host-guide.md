@@ -190,5 +190,8 @@ permalink: /campout/resources/host-guide/
 <p>National Health Care for the Homeless Council ... storytelling Practical guidance on trauma-informed storytelling, consent, and releases. Storytelling resources.</p>
 <p>Editorial note: General claims from education and messaging resources are not automatically Chico-specific statistics. If a host uses local numbers, confirm their date, population, and source first.</p>
 <p>https://invisiblepeople.tv/2025research/invisible-people-messaging-toolkit/ https://www.sleepout.org/faqs https://www.sleepout.org/faqs https://www.learningtogive.org/resources/lessons-units?search_api_views_fulltext_1=Homelessness https://schoolhouseconnection.org/article/awareness-resources https://nhchc.org/media/storykit/</p>
+<h2>Optional video discussion resources</h2>
+<p>You can now choose from a curated collection of OrgCode and Invisible People videos for older youth and adult groups, including respectful language, youth and family housing, shelter choices, neighborhood concerns, and responses to encampments. The video guide offers age suggestions, discussion prompts, and viewing precautions. Younger children can use the existing hands-on activities without any video.</p>
+<p><a href="{{ '/campout/resources/videos/' | relative_url }}"><strong>Open the Campout video discussion guide →</strong></a></p>
 <p><a href="{{ '/campout/' | relative_url }}">← Back to Campout for Compassion</a></p>
 </main>
