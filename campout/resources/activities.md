@@ -14,6 +14,7 @@ permalink: /campout/resources/activities/
 <main class="campout-document">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout event</a></p>
 <h1>Age-Appropriate Educational Activities</h1>
+<p style="background:#e8f2f3;padding:.65rem .8rem;border-left:3px solid #006474;"><strong>Printing or writing by hand?</strong> Download the PDF above. It includes properly spaced lines, writing areas, and worksheet boxes. This webpage is the reading version.</p>
 <p><a href="{{ '/campout/downloads/activities.pdf' | relative_url }}" download><strong>Download Age-Appropriate Activities (PDF) ↓</strong></a></p>
 <p><strong>Chico Campout for Compassion 2026</strong> · Saturday, November 14, 2026</p>
 <p class="print-help"><em>This is the online reading edition of the host material. You can use your browser's Print function to save or print it.</em></p>
