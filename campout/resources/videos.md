@@ -23,6 +23,7 @@ image:
 <div class="camp-videos">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout home page</a></p>
 <h1>Video Discussion Guide</h1>
+<p><a href="{{ '/campout/downloads/video-discussion-guide.pdf' | relative_url }}" download><strong>Download the Video Discussion Guide (PDF) ↓</strong></a></p>
 <p><strong>Campout for Compassion 2026 · Saturday, November 14</strong></p>
 <p class="intro">Choose one video or an excerpt that fits your group. These are optional conversation starters ... not a required lesson plan, and not a substitute for a local conversation with someone who has experienced homelessness.</p>
 <h2>Choosing videos by age</h2>
