@@ -26,6 +26,16 @@ I am opinionated and blunt in my ways ... but I try not to be critical or judgme
 
 ---
 
+## Chico Campout for Compassion 2026
+
+**Saturday, November 14, 2026** ... One night. Many locations. One community.
+
+A communitywide night of awareness and understanding in support of neighbors experiencing homelessness.
+
+**[Learn about the Campout and how to participate →]({{ '/campout/' | relative_url }})**
+
+---
+
 ## My Homelessness Journey ... July–September 2026
 
 From my first night at the shelter to my first uninterrupted night's sleep in a private room ... a chronological series of personal accounts, original Facebook photographs, and reflections on finding a way forward in Chico.
