@@ -11,18 +11,18 @@ The draft displays a styled text wordmark. Upload the approved PNG logo into thi
 `<img src="{{ '/campout/logo.png' | relative_url }}" alt="Chico Campout for Compassion 2026" style="max-width:100%;height:auto;">`
 Keep the event date and text below the logo.
 
-## Add the public Google My Maps map
-1. Go to https://www.google.com/maps/d/ while signed in as a map editor.
-2. Create a map titled "Chico Campout for Compassion 2026 ... Participating Locations".
-3. Add confirmed organizations only after they grant permission to list them.
-4. You can have layers for "Confirmed Host", "Interested Organization", or "Public Information Site". Never mark private homes or sensitive youth gathering locations.
-5. Set map visibility to Public view (but don't allow general public editing).
-6. In the map's menu, select "Embed on my site" and copy the iframe.
-7. Replace the `<div id="participant-map" ...>...</div>` placeholder with the iframe. Use `class="map-frame"` on the iframe for responsive styling.
-Example (illustration only, not a valid active map):
-`<iframe class="map-frame" title="Chico participating organizations" src="https://www.google.com/maps/d/embed?mid=YOUR_REAL_MAP_ID" loading="lazy"></iframe>`
+## Public Google My Maps map
 
-Google guide: https://support.google.com/mymaps/answer/3109452
+The website draft now embeds the provided map ID `14GtfNekVDUJ-1zj6plsSn1u6gdLKca4` from Google My Maps.
+- Editor: https://www.google.com/maps/d/edit?mid=14GtfNekVDUJ-1zj6plsSn1u6gdLKca4
+- Visitor: https://www.google.com/maps/d/viewer?mid=14GtfNekVDUJ-1zj6plsSn1u6gdLKca4
+- Embedded: https://www.google.com/maps/d/embed?mid=14GtfNekVDUJ-1zj6plsSn1u6gdLKca4
+
+Important: the map could not be independently viewed using a web fetch. Make sure the My Maps sharing settings allow public VIEWING, and test in a private/incognito browser window without signing in. Do NOT enable public editing.
+
+To start the map in Chico, pan/zoom to the Chico region and choose `Set default view` from the map menu. This sets the initial extent but cannot confine visitors to city limits.
+
+Add only confirmed, consenting organizations as pins. Do not publish private houses or exact youth overnight gathering sites without explicit permission.
 
 ## Community conversation without participant accounts
 Version 1: Visitors email their comment, and you publish approved, permission-granted submissions on the site. This is moderated and requires no additional login; it's not a live threaded discussion.
