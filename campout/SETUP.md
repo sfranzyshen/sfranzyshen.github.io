@@ -6,10 +6,11 @@ This is a working draft, intended for review before publication. The page uses t
 Once merged into master and published, the proposed page will be:
 https://www.sfranzyshen.org/campout/
 
-## Add the actual event logo
-The draft displays a styled text wordmark. Upload the approved PNG logo into this directory as `logo.png`. Then replace the `header.hero` wordmark/city/tag elements with:
-`<img src="{{ '/campout/logo.png' | relative_url }}" alt="Chico Campout for Compassion 2026" style="max-width:100%;height:auto;">`
-Keep the event date and text below the logo.
+## Approved Campout logo
+The live page now references the vector artwork at `campout/logo.svg`, derived from the provided approved logo: Chico Campout for Compassion 2026. The event date remains outside the logo on the main page.
+
+## Educational resource pages
+Host guide, age-appropriate activities, and host invitation are available as printable web reading editions under `campout/resources/`. The original formatted PDFs remain available directly from the organizer by request and can be uploaded to the site in a future update.
 
 ## Public Google My Maps map
 
