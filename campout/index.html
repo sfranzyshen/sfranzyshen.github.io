@@ -9,6 +9,7 @@ permalink: /campout/
 .campout-root { --camp-navy:#092844; --camp-teal:#006474; --camp-orange:#e96b36; --camp-pale:#e8f4f5; --camp-ink:#203347; color:var(--camp-ink); line-height:1.65; }
 .campout-root * { box-sizing:border-box; }
 .campout-root .hero { text-align:center; padding:1.4rem .3rem 1.5rem; border-bottom:3px solid var(--camp-orange); }
+.campout-root .event-logo { display:block; max-width:100%; width:650px; height:auto; margin:0 auto .6rem; }
 .campout-root .city { font:italic 700 clamp(1.3rem,3vw,2.1rem) Georgia,serif; color:var(--camp-teal); margin:0; }
 .campout-root .wordmark { font:900 clamp(3.1rem,8vw,5rem) Georgia,serif; color:var(--camp-navy); letter-spacing:-.045em; line-height:1.05; margin:.15rem auto 0; overflow-wrap:normal; }
 .campout-root .wordmark .heart { color:var(--camp-orange); display:inline-block; font-size:.37em; margin-left:.2em; vertical-align:middle; letter-spacing:0; }
@@ -37,9 +38,8 @@ permalink: /campout/
 
 <div class="campout-root">
   <header class="hero">
-    <p class="city">Chico</p>
-    <h1 class="wordmark">Campout <span class="heart" aria-hidden="true">♥</span></h1>
-    <p class="tag">for Compassion <span class="year">2026</span></p>
+    <img class="event-logo" src="{{ '/campout/logo.svg' | relative_url }}" alt="Chico Campout for Compassion 2026" width="650" height="234">
+    <h1 class="sr-only" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;">Chico Campout for Compassion 2026</h1>
     <p class="date">Saturday, November 14, 2026</p>
     <p class="motto">One Night. Many Locations. One Community.</p>
     <p class="lead">A communitywide night of awareness, understanding, and compassion for our neighbors experiencing homelessness.</p>
@@ -72,8 +72,13 @@ permalink: /campout/
 
   <section class="section" id="resources">
     <h2>Host guides and learning activities</h2>
-    <p>A community host guide, introductory invitation, and age-appropriate educational activities are being prepared for public download. Until those files are posted here, email to request the current host package.</p>
-    <p><a href="mailto:scotty@sfranzyshen.org?subject=Campout%20for%20Compassion%20-%20Host%20Packet%20Request">Request the host packet by email</a></p>
+    <p>Use these free, original Chico-focused materials to help plan your gathering. The reading editions are available now, and you can print them directly from your browser.</p>
+    <ul>
+      <li><a href="{{ '/campout/resources/host-guide/' | relative_url }}">Community host and facilitator guide</a></li>
+      <li><a href="{{ '/campout/resources/activities/' | relative_url }}">Printable age-appropriate activity content</a> ... for younger children, teens, and adults</li>
+      <li><a href="{{ '/campout/resources/host-invitation/' | relative_url }}">One-page invitation for prospective hosts</a></li>
+    </ul>
+    <p>If you'd prefer the original formatted PDF packet, <a href="mailto:scotty@sfranzyshen.org?subject=Campout%20for%20Compassion%20-%20PDF%20Host%20Packet%20Request">request it by email</a>.</p>
     <p class="small">Educational materials draw on established homelessness-awareness approaches, including the Invisible People messaging toolkit, but are designed as original activities for Chico groups to use ... not as a class on the toolkit itself.</p>
   </section>
 
