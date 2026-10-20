@@ -14,6 +14,8 @@ image:
 
 # Why We're Here ... A Conversation, Not an Argument
 
+**You don't have to camp out to participate!** You can host or join a discussion, invite a speaker, show a video, organize an activity or basic-needs drive, or simply help spread the word. An overnight campout is only one option.
+
 **Campout for Compassion 2026 ... Saturday, November 14, 2026**
 
 Our approach to homelessness may appear left-leaning ... but this isn't about left or right.
