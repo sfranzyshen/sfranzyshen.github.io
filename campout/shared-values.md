@@ -25,6 +25,8 @@ image:
 
 # Shared Values, Shared Purpose
 
+**You don't have to camp out to participate!** You can host or join a discussion, invite a speaker, show a video, organize an activity or basic-needs drive, or simply help spread the word. An overnight campout is only one option.
+
 **A community conversation framework for Chico Campout for Compassion 2026**  
 **Saturday, November 14, 2026**  
 *One Night. Many Locations. One Community.*
