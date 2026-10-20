@@ -14,6 +14,7 @@ permalink: /campout/resources/activities/
 <main class="campout-document">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout event</a></p>
 <h1>Age-Appropriate Educational Activities</h1>
+<p style="background:#e9f5f5;border-left:4px solid #00717c;padding:.75rem 1rem;"><strong>You don't have to camp out to participate!</strong> Host or join a discussion, show a video, invite a speaker, help with basic-needs giving, or share the event. Overnight camping is optional.</p>
 <p><strong>Our purpose is dialogue, not agreement.</strong> These activities are recommended, never required. <a href="{{ '/campout/why-were-here/' | relative_url }}">Read why we're here</a>.</p>
 <div class="resource-policy" style="background:#eff7f8;border-left:4px solid #006474;padding:.85rem 1rem;margin:1rem 0;">
 <strong>Recommended Resources ... Not Required</strong>
