@@ -18,13 +18,15 @@ image:
 **Saturday, November 14, 2026**  
 *One Night. Many Locations. One Community.*
 
+**You don't have to camp out to participate!** You can host or join a discussion, invite a speaker, show a video, organize an activity or basic-needs drive, or simply help spread the word. An overnight campout is only one option.
+
 Hello,
 
 I'm reaching out personally to invite your organization to participate in something I believe could bring our community a little closer together.
 
 <b>Chico Campout for Compassion 2026</b> is a one-night, communitywide educational awareness event inspired by Covenant House's Sleep Out campaign.
 
-The idea is simple ... invite churches, youth groups, schools, service clubs, families, individuals, and other community organizations to spend one night outside, each at their own approved location, in support of our neighbors experiencing homelessness.
+The idea is simple ... invite churches, youth groups, schools, service clubs, families and individuals to participate however they wish. Some may camp out for a night; others may host a discussion, invite a speaker, show a video, collect basic necessities or simply share the invitation.
 
 Each participating group would organize its own gathering, which might include guest speakers who have experienced homelessness, age-appropriate educational activities, videos, discussions, or simply an opportunity to reflect on the challenges of living without a home.
 
