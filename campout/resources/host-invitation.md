@@ -14,6 +14,8 @@ image:
 
 # Hosting Campout for Compassion
 
+**You don't have to camp out to participate!** Host a discussion, welcome a guest speaker, show a video, collect basic necessities, share information, or take part in an optional overnight campout.
+
 **Saturday, November 14, 2026 ... Chico, California**  
 *One Night. Many Locations. One Community.*
 
