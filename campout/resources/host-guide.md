@@ -14,6 +14,7 @@ permalink: /campout/resources/host-guide/
 <main class="campout-document">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to the Campout event</a></p>
 <h1>Community Host and Facilitator Guide</h1>
+<p style="background:#e9f5f5;border-left:4px solid #00717c;padding:.75rem 1rem;"><strong>You don't have to camp out to participate!</strong> Host or join a discussion, show a video, invite a speaker, help with basic-needs giving, or share the event. Overnight camping is optional.</p>
 <div style="padding:.8rem 1rem;border-left:3px solid #e96b36;background:#fffaf5;margin:1rem 0;">
 <h2>Why We're Here ... A Conversation, Not an Argument</h2>
 <p>Our approach may appear left-leaning, but this event isn't about left or right. We welcome research, countering material, and different perspectives. We aren't here to tell anyone what to think or how it should be done ... only to start conversations.</p>
