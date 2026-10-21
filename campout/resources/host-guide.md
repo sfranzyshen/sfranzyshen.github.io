@@ -31,10 +31,25 @@ permalink: /campout/resources/host-guide/
 <p class="print-help"><em>This is the online reading edition of the host material. You can use your browser's Print function to save or print it.</em></p>
 <p>COMMUNITY HOST &amp; FACILITATOR GUIDE</p>
 <p>Saturday, November 14, 2026 One night. Many locations. One community.</p>
-<p>A citywide invitation to learn, listen, reflect, and recognize the dignity of our neighbors experiencing homelessness.</p>
+<p>A citywide invitation to see the people, learn the facts, change the narrative, and recognize the dignity of our neighbors experiencing homelessness.</p>
 <p>For churches, youth groups, schools, service clubs, neighborhood groups, families, and individuals</p>
 <p>This is an independent Chico awareness initiative ... not a fundraising campaign. Optional food, basic-needs supplies, or gifts go directly to existing local programs.</p>
 <p>Organizer contact: Scotty Franzyshen | scotty@sfranzyshen.org</p>
+<h2>NEW • CORE EDUCATIONAL PROGRAM ... CHANGE THE NARRATIVE</h2>
+<p><strong>Primary goal:</strong> Help Chico residents see the people behind homelessness, challenge assumptions with reliable evidence, and have honest conversations. Iain De Jong's shared-values video is now an optional deeper resource, not the central program. You do not have to camp out, host a gathering, or agree with a policy to participate.</p>
+<p><strong>Our foundation:</strong> Invisible People's <a href="https://invisiblepeople.tv/2025research/invisible-people-messaging-toolkit/">2025 Effective Homelessness Advocacy Messaging Toolkit</a> explains that the way people understand homelessness shapes the responses they support. We use its communication lessons ... not its audience survey as if it were a Chico housing count.</p>
+<p><strong>Recommended 60-minute group activity:</strong></p>
+<ol>
+<li>Welcome and respectful ground rules (5 minutes).</li>
+<li>SEE ... watch one vetted Invisible People firsthand interview or invite a local speaker (10 minutes).</li>
+<li>LEARN ... discuss three assumptions using the <a href="{{ '/campout/understanding-homelessness/' | relative_url }}">myths, facts, and realities guide</a> (15 minutes).</li>
+<li>CHICO ... explore locally sourced housing and shelter questions. Mark anything unverified as a question, not a fact (10 minutes).</li>
+<li>DISCUSS ... what surprised you, what remains uncertain, and how you would treat a neighbor (15 minutes).</li>
+<li>REFLECT ... one thing learned, one assumption reconsidered (5 minutes).</li>
+</ol>
+<p><strong>Short home option ... 15–20 minutes:</strong> Share one first-person interview or reading, ask which assumption it challenges, check one reliable source, and have a short conversation. A congregation may simply share the invitation and these resources; no church-hosted campout is necessary.</p>
+<p><strong>Facts and fairness:</strong> distinguish firsthand testimony, research-based generalizations, and verified Chico-specific data. Don't diagnose people, equate shelter beds with permanent homes, or say an encampment removal ended someone's homelessness. Never ask someone to perform trauma for an audience.</p>
+<p>Related resources: <a href="{{ '/campout/resources/videos/' | relative_url }}">Firsthand video guide</a>; <a href="{{ '/campout/resources/activities/' | relative_url }}">Activities for all ages</a>; <a href="{{ '/campout/shared-values/' | relative_url }}">Optional shared-values learning</a>.</p>
 <h2>01 • PURPOSE</h2>
 <p>Start here: What is Campout for Compassion? Chico Campout for Compassion invites community groups to host their own safe, supervised gathering on the same night. Participants learn about homelessness, hear from people who have experienced it, discuss local barriers, and reflect on what it means to have a reliable home.</p>
 <p>The event is designed to bring people together across religious, political, and neighborhood differences. A host can run a two-hour evening program or an approved overnight campout.</p>
