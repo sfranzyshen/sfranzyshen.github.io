@@ -102,7 +102,13 @@ permalink: /campout/resources/activities/
 <p>One way I could treat a neighbor with more dignity ...</p>
 <p>For overnight participants: What could you stop doing tomorrow that someone without a safe home cannot simply stop? (Keep the focus on differences, not equivalence.)</p>
 <p>End with this: “Our night was temporary. What we learned can stay with us.”</p>
+<h2>SHEET G • AGES 14+ • 25–35 MINUTES</h2>
+<p><strong>What is the fact ... and what is the assumption?</strong> Use the <a href="{{ '/campout/understanding-homelessness/' | relative_url }}">Understanding Homelessness guide</a>. Select two statements: “Everyone refuses shelter”, “Only people with addictions are homeless”, “Clearing a campsite means people were housed”, or “Anyone with a job can afford a rental.”</p>
+<p>For each statement, write: (1) what someone actually observed, (2) what they inferred, (3) what evidence would be needed, and (4) what question they could ask respectfully. Do not treat the example statements as survey statistics.</p>
+<p><strong>Local evidence check:</strong> Choose one Chico claim, identify the year and source, define what was measured, and say what the source cannot tell you. Counts of shelter use, people experiencing homelessness, and permanent housing placements are not interchangeable.</p>
+<p><strong>Close:</strong> One thing I learned ... One assumption I want to reconsider ... One question I will investigate ...</p>
+<p><strong>Facilitator:</strong> The goal is learning and discussion, not winning an argument. Do not pressure participants to disclose lived experiences or make an unsupported claim about all unhoused people.</p>
 <h2>Optional companion videos for older groups</h2>
-<p>These age-appropriate activities remain usable without video. For teen and adult facilitators, the <a href="{{ '/campout/resources/videos/' | relative_url }}">video discussion guide</a> offers 15 optional OrgCode and Invisible People video links, suggestions for different age groups, and questions. Always preview material before playing it with minors, and give people the option to participate without watching.</p>
+<p>These age-appropriate activities remain usable without video. Our primary sequence is to see the people, learn the facts, and start a conversation. For teen and adult facilitators, the <a href="{{ '/campout/resources/videos/' | relative_url }}">video discussion guide</a> offers 15 optional OrgCode and Invisible People video links, suggestions for different age groups, and questions. Always preview material before playing it with minors, and give people the option to participate without watching.</p>
 <p><a href="{{ '/campout/' | relative_url }}">← Back to Campout for Compassion</a></p>
 </main>
