@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Shared Values, Shared Purpose ... Campout for Compassion"
-description: "Twelve discussion values inspired by Iain De Jong of OrgCode, connecting shared humanity with open participation and lowest-barrier recommendations at Chico Campout 2026."
+description: "Optional deeper discussion of shared values and solutions inspired by Iain De Jong for Campout for Compassion 2026."
 permalink: /campout/shared-values/
 image:
   path: /campout/logo.svg
@@ -23,11 +23,11 @@ image:
 
 <a class="download" href="{{ '/campout/downloads/shared-values-and-purpose.pdf' | relative_url }}" download>Download Shared Values, Shared Purpose (PDF)</a>
 
-# Shared Values, Shared Purpose
+# Shared Values, Shared Purpose ... Optional Deeper Learning
 
 **You don't have to camp out to participate!** You can host or join a discussion, invite a speaker, show a video, organize an activity or basic-needs drive, or simply help spread the word. An overnight campout is only one option.
 
-**A community conversation framework for Chico Campout for Compassion 2026**  
+**An optional companion discussion for Chico Campout for Compassion 2026**  
 **Saturday, November 14, 2026**  
 *One Night. Many Locations. One Community.*
 
@@ -42,11 +42,11 @@ People with different perspectives are welcome to bring countering research and 
 We are not here to tell people what to think or how things should be done ... we are here to start conversations. **Dialogue ... nothing more.** [Read the full statement]({{ '/campout/why-were-here/' | relative_url }}) or [download it as a PDF]({{ '/campout/downloads/why-were-here.pdf' | relative_url }}).
 
 
-This document proposes a common starting point for participating groups. Its foundation is Iain De Jong's OrgCode video, **[The Missing Piece in Ending Homelessness: Shared Values](https://www.orgcode.com/youtube-videos/v/29rnf5pc36ammyk3amwljabjep2h9e)** (October 30, 2025), alongside the existing purpose and educational-resource policy of Chico Campout for Compassion. It is an independent local adaptation, not an OrgCode publication or endorsement.
+This document offers additional learning for groups interested in provider perspectives and service principles. Our main public education now focuses on firsthand stories, facts, and understanding homelessness. This optional companion is inspired by Iain De Jong's OrgCode video, **[The Missing Piece in Ending Homelessness: Shared Values](https://www.orgcode.com/youtube-videos/v/29rnf5pc36ammyk3amwljabjep2h9e)** (October 30, 2025), alongside the existing purpose and educational-resource policy of Chico Campout for Compassion. It is an independent local adaptation, not an OrgCode publication or endorsement.
 
 The central question is simple: **Before we argue about strategies, what values do we share ... and how do those values show up in how we treat people?**
 
-**Our invitation:** All community organizations, churches, youth groups, families, and individuals are invited. Every group may use its own appropriate activities. Our resources are **recommended, not required**.
+**Our invitation:** Begin with our [public education and myths-versus-evidence guide]({{ '/campout/understanding-homelessness/' | relative_url }}). All community organizations, churches, youth groups, families, and individuals are invited. Every group may use its own appropriate activities. Our resources are **recommended, not required**.
 
 ## 1. The purpose of our night
 
@@ -106,7 +106,7 @@ The video stresses the difference between giving someone a few minutes at a micr
 
 ## 6. A practical shared-values discussion
 
-A host can use this simple 45–55 minute format. It works without an overnight campout, and the video is a recommended core conversation starter for adult groups. A short adult-previewed excerpt may be more appropriate for younger participants.
+A host can use this simple 45–55 minute format. It works without an overnight campout, and the video is an optional deeper-learning conversation starter for interested adult groups. A short adult-previewed excerpt may be more appropriate for younger participants.
 
 | Time | Part | Suggested focus |
 |---|---|---|
