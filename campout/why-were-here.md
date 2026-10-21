@@ -18,16 +18,26 @@ image:
 
 **Campout for Compassion 2026 ... Saturday, November 14, 2026**
 
-Our approach to homelessness may appear left-leaning ... but this isn't about left or right.
+Chico Campout for Compassion is about **changing the narrative ... one conversation at a time.** Our goal is to help the public look beyond stereotypes, hear people with firsthand experience, learn facts about homelessness, and examine what is happening in our own community.
 
-The best available science, research, studies, and real-world results help us understand what works and what doesn't. There will always be people and groups who try to distort or manipulate the narrative to fit a particular view ... but facts are facts, and results are results.
+Too often, our understanding of homelessness comes from what we see on the street, what we hear in the news, or what others tell us. But how much do we really know about the people experiencing homelessness, the circumstances that brought them there, or the barriers preventing them from finding housing?
 
-In the end, we all want the same things ... cleaner, safer parks and waterways, a return to a sense of normalcy in our community, fewer people living on the streets, and our neighbors having a safe place to call home. These goals do not have to be in conflict.
+**See the people. Learn the facts. Start a conversation.**
 
-Our recommended educational resources reflect a “shelter first” and lowest-barrier approach. These resources are recommended, not required. If you disagree with what we provide, you are welcome to bring countering research, information, and perspectives to the conversation.
+Our approach may appear left-leaning ... but this isn't about left or right. Facts are facts, and results are results. The best available research, studies, science, and real-world experiences should help us understand the problem rather than determine which side wins an argument.
 
-All voices are encouraged. While this project will not provide or recommend “treatment first” educational materials, people who support those approaches are still welcome to participate and speak.
+We all want cleaner, safer parks and waterways, fewer people living on the streets, and neighbors who have a safe place to call home. Those goals do not have to be in conflict.
 
-We are not here to tell you what to think. We are not here to tell you how it should be done. We are here to start having conversations ... to examine uncomfortable facts from our worst nightmares ... and to see that problems we have come to think are impossible to solve may actually be possible.
+We are not asking anyone to endorse a particular political position or housing philosophy. We want to distinguish fact from assumption, hear different perspectives, and question harmful stereotypes. We welcome countering evidence and respectful disagreement.
+
+Our recommended educational materials draw primarily on Invisible People's 2025 *Effective Homelessness Advocacy Messaging Toolkit*, firsthand stories, and independently verified research. The toolkit helps us communicate more effectively; it is not a substitute for Chico-specific statistics. Iain De Jong's discussion of shared values remains an **optional deeper resource**, not the central focus of the Campout.
+
+Our educational resource choices reflect a shelter-first and lowest-barrier approach; we do not recommend treatment-first materials. However, people who support other approaches are still welcome to participate and express their views.
+
+An overnight campout is optional ... individuals can participate from home, and organizations can simply encourage their members to join the conversation.
+
+We are not here to tell you what to think. We are not here to tell you how it should be done. We are here to start having conversations ... to learn something, question an assumption, and recognize the humanity of our neighbors.
 
 We do not need to agree on everything to find common ground. Our purpose is dialogue ... nothing more.
+
+**Start here:** [Understanding Homelessness ... Myths, Facts & Realities]({{ '/campout/understanding-homelessness/' | relative_url }}) or [explore our video guide]({{ '/campout/resources/videos/' | relative_url }}).
