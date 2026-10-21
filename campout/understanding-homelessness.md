@@ -1,0 +1,46 @@
+---
+layout: default
+title: "Understanding Homelessness ... Myths, Facts & Realities | Chico Campout"
+description: "Public education and respectful discussion questions about homelessness, based on firsthand experience, credible sources, and questions for Chico."
+permalink: /campout/understanding-homelessness/
+---
+<style>
+.narrative-guide{line-height:1.7;color:#203347}.narrative-guide h1,.narrative-guide h2{color:#092844}
+.narrative-guide h2{margin-top:1.8rem;border-bottom:1px solid #d6e4e7;padding-bottom:.3rem}
+.narrative-guide .intro{background:#e8f4f5;padding:.9rem;border-left:4px solid #006474}
+.narrative-guide .study{border:1px solid #c8dfe2;border-radius:.5rem;padding:.8rem 1rem;margin:.9rem 0}
+.narrative-guide .study h3{color:#006474;margin:.25rem 0}
+.narrative-guide .small{font-size:.9rem;color:#485d69}
+</style>
+<main class="narrative-guide">
+<p><a href="{{ '/campout/' | relative_url }}">← Back to Campout for Compassion</a></p>
+<h1>Understanding Homelessness ... Myths, Facts &amp; Realities</h1>
+<p class="intro"><strong>See the people. Learn the facts. Start a conversation.</strong><br>You do not have to camp out to participate. Use this guide at home, with friends, in a classroom, or at a community gathering.</p>
+<p><a href="{{ '/campout/downloads/understanding-homelessness.pdf' | relative_url }}" download><strong>Download this discussion guide (PDF)</strong></a></p>
+<p>Homelessness is often discussed in slogans, political arguments, or snapshots of encampments. Those snapshots cannot explain every person's life or why housing has become unreachable. This guide asks us to distinguish <strong>what we observe, what we assume, what people tell us, and what reliable evidence supports.</strong></p>
+<h2>First ... listen to the people</h2>
+<p>Hear a first-person account from someone who has experienced homelessness, with their permission and without expecting them to speak for everyone. Our <a href="{{ '/campout/resources/videos/' | relative_url }}">video guide</a> includes interviews from Invisible People about families, older adults, couples, shelter choices, and housing stability. A local guest may offer a more direct Chico perspective. Never pressure anyone to share personal trauma or housing status.</p>
+<h2>Seven beliefs worth examining</h2>
+<div class="study"><h3>1. "People choose to be homeless."</h3><p><strong>Look closer:</strong> Losing housing and choosing not to accept a particular shelter arrangement are different things. Housing costs, income, family circumstances, safety and available options all matter. Ask what real, workable housing options exist before assuming someone prefers homelessness.</p><p><strong>Discuss:</strong> What would it take for someone in Chico to move from an emergency bed to a stable home?</p></div>
+<div class="study"><h3>2. "Everyone experiencing homelessness has an addiction."</h3><p><strong>Look closer:</strong> People without housing have diverse backgrounds. Substance use and mental health needs can be serious, but they do not define every person or by themselves explain the local housing market. Avoid using someone's appearance as a diagnosis.</p><p><strong>Discuss:</strong> What evidence would we need to support a claim about the causes of homelessness in Chico?</p></div>
+<div class="study"><h3>3. "If someone refuses shelter, they refuse help."</h3><p><strong>Look closer:</strong> A shelter may be inaccessible or unworkable for some people because of family separation, pets, curfews, safety concerns, work schedules, or other rules. A declined placement is not proof that someone refuses housing.</p><p><strong>Discuss:</strong> What alternatives are available when one option is unsuitable?</p></div>
+<div class="study"><h3>4. "Why don't they just get a job?"</h3><p><strong>Look closer:</strong> Employment and homelessness can occur together. Work does not automatically pay enough for a rental, and sleeping outside can make basic work routines much harder. Compare actual local wages and housing prices before judging an individual's efforts.</p><p><strong>Discuss:</strong> Could a part-time worker afford a room in Chico today?</p></div>
+<div class="study"><h3>5. "Homeless people mostly came here from somewhere else."</h3><p><strong>Look closer:</strong> This is a claim that requires local evidence. Point-in-Time surveys and related studies may ask about residence before homelessness, but their methods and populations differ. Do not turn an anecdote into a statistic.</p><p><strong>Discuss:</strong> What do current Butte County data actually tell us ... and what do they leave out?</p></div>
+<div class="study"><h3>6. "Clearing an encampment ends homelessness."</h3><p><strong>Look closer:</strong> Removing a campsite may change where homelessness is visible. It does not, by itself, mean the people who lived there obtained housing. Distinguish displacement from verified housing outcomes.</p><p><strong>Discuss:</strong> What should Chico measure after enforcement or outreach?</p></div>
+<div class="study"><h3>7. "Homelessness only means people sleeping in tents."</h3><p><strong>Look closer:</strong> Families, seniors, young people, workers, and people staying temporarily with others may face serious housing instability even when they are not visible on the street. Different data programs use different definitions and counts.</p><p><strong>Discuss:</strong> Whose experiences are missing when we count only the most visible situations?</p></div>
+<h2>What we know ... and what still needs a Chico-specific source</h2>
+<p>The Invisible People toolkit provides research on how audiences interpret messages and offers responses to common criminalization arguments. Its underlying survey is <strong>not a Chico homelessness census</strong>. For local facts, use dated primary sources, explain definitions, and separate counts of shelter beds, people sheltered, people housed, and housing units built. Do not imply that a shelter placement equals permanent housing.</p>
+<p>Useful places to begin include Butte County Continuum of Care Point-in-Time reports, City of Chico Housing Element and Annual Progress Reports, municipal spending documents, and published program outcome data. Record the report date and source next to any statistic used in a handout.</p>
+<h2>Simple discussion ... 20–30 minutes</h2>
+<ol>
+<li><strong>See:</strong> Watch one vetted firsthand interview or listen to an invited speaker.</li>
+<li><strong>Learn:</strong> Select two beliefs above. Separate observations, evidence, questions, and assumptions.</li>
+<li><strong>Discuss:</strong> What surprised you? Which claim needs a source? What would a person experiencing homelessness want us to understand?</li>
+<li><strong>Reflect:</strong> Identify one assumption to reconsider and one way to treat a neighbor more respectfully.</li>
+</ol>
+<h2>For those who want to go deeper</h2>
+<p><a href="https://invisiblepeople.tv/2025research/invisible-people-messaging-toolkit/" target="_blank" rel="noopener noreferrer">Invisible People ... 2025 Effective Homelessness Advocacy Messaging Toolkit</a> provides the communication framework that informed this guide, particularly its discussion of perceptions, respectful message framing, and commonly repeated arguments (pages 4, 17, and 30–34). Its survey was conducted in 2024 with 1,000 respondents; it does not itself establish the prevalence of every claim in Chico.</p>
+<p><a href="{{ '/campout/shared-values/' | relative_url }}">Shared Values and Solutions</a> offers an optional deeper conversation inspired by Iain De Jong's provider-oriented video. These materials are recommended, not required. We do not recommend treatment-first materials as part of this project; people with different views remain welcome in respectful discussion.</p>
+<p><strong>Have a question, firsthand perspective, or source we should consider?</strong> <a href="mailto:scotty@sfranzyshen.org?subject=Campout%20for%20Compassion%20-%20Education">Email the organizer</a>. Our goal is honest education and dialogue ... not a debate everyone must win.</p>
+<p class="small">Independent educational adaptation for Chico Campout for Compassion 2026. Not a publication or endorsement by Invisible People or OrgCode. Event: Saturday, November 14, 2026. One Night. Many Locations. One Community.</p>
+</main>
