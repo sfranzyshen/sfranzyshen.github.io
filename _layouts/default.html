@@ -23,6 +23,13 @@
 .post-topics { margin-top: 2rem; border-top: 1px solid #e1e5ea; padding: 1rem 0; line-height: 2.2; }
 .post-topics a { display: inline-block; margin: 0 .25rem .3rem 0; padding: .05rem .5rem; border-radius: 1rem; background: #eef3f7; color: #175071; text-decoration: none; font-size: .86em; }
 .post-topics a:hover, .post-topics a:focus { background: #dbeaf4; text-decoration: underline; }
+/* Campout pages display event branding, not the personal site header. */
+body.campout-page .wrapper { max-width: 980px; width: calc(100% - 48px); }
+body.campout-page .wrapper > section { float: none; width: 100%; max-width: none; margin: 0 auto; }
+body.campout-page .wrapper > footer { display: none; }
+@media (max-width: 600px) {
+  body.campout-page .wrapper { width: auto; max-width: none; }
+}
 </style>
 
 <!-- GoatCounter -->
@@ -33,8 +40,9 @@
 
   </head>
 
-  <body>
+  <body{% if page.url contains '/campout/' %} class="campout-page"{% endif %}>
     <div class="wrapper">
+      {% unless page.url contains '/campout/' %}
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
@@ -75,6 +83,7 @@
     {% endif %}
 -->        
   </header>
+      {% endunless %}
 
   <section>
     {{ content }}
