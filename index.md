@@ -28,9 +28,9 @@ I am opinionated and blunt in my ways ... but I try not to be critical or judgme
 
 ## Chico Campout for Compassion 2026
 
-**Saturday, November 14, 2026** ... One night. Many locations. One community.
+**Saturday, November 14, 2026** ... **One Night. Many Locations. One Community.**
 
-A communitywide night of awareness and understanding in support of neighbors experiencing homelessness.
+Rather than gathering at one central campsite, Chico neighbors can take part across many locations for one shared night of awareness, understanding, and compassion. **You don't have to camp out to participate!** Join a conversation from home, organize an educational gathering, or help spread the word.
 
 **[Learn about the Campout and how to participate →]({{ '/campout/' | relative_url }})**
 
