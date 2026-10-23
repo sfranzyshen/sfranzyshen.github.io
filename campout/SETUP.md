@@ -1,20 +1,19 @@
 # Campout for Compassion ... Website Setup
 
-This is a working draft, intended for review before publication. The page uses the site's existing Jekyll Minimal layout.
+The Campout website is published using the site's Jekyll Minimal layout. Project materials follow the approved description: one communitywide educational awareness night across many independently hosted locations, with no camping requirement.
 
-## Preview
-Once merged into master and published, the proposed page will be:
+## Live page
 https://www.sfranzyshen.org/campout/
 
 ## Approved Campout logo
 The live page now references the vector artwork at `campout/logo.svg`, derived from the provided approved logo: Chico Campout for Compassion 2026. The event date remains outside the logo on the main page.
 
 ## Educational resource pages
-Host guide, age-appropriate activities, and host invitation are available as printable web reading editions under `campout/resources/`. The original formatted PDFs remain available directly from the organizer by request and can be uploaded to the site in a future update.
+The resource guides are available both as web pages and updated downloadable PDFs in `campout/downloads/`. Flyer artwork with the clarified event description is available as scalable portrait and landscape SVG files on the main Resources section. Original PNG flyers remain archived in this folder; share the updated versions instead.
 
 ## Public Google My Maps map
 
-The website draft now embeds the provided map ID `14GtfNekVDUJ-1zj6plsSn1u6gdLKca4` from Google My Maps.
+The published website embeds the provided map ID `14GtfNekVDUJ-1zj6plsSn1u6gdLKca4` from Google My Maps.
 - Editor: https://www.google.com/maps/d/edit?mid=14GtfNekVDUJ-1zj6plsSn1u6gdLKca4
 - Visitor: https://www.google.com/maps/d/viewer?mid=14GtfNekVDUJ-1zj6plsSn1u6gdLKca4
 - Embedded: https://www.google.com/maps/d/embed?mid=14GtfNekVDUJ-1zj6plsSn1u6gdLKca4
@@ -35,8 +34,8 @@ If you want live replies later:
 
 Do not choose Giscus or Utterances if you want visitors to comment without GitHub sign-in.
 
-## Publish public resource PDFs
-Host packet, age activities, and group invitation exist as completed PDFs outside this repository. Upload the approved PDFs in the `campout/` folder and replace the request-by-email copy with direct links. Do not claim downloads exist until those files are actually hosted.
+## Public resource files
+The PDFs in `campout/downloads/` are published and linked from the Resources section. The event introduction in web materials and PDFs reflects the current wording. The two `_Updated.svg` flyers supersede the older PNG graphic copies for online links; updated PNG versions may be shared separately.
 
 ## Event date
 Saturday, November 14, 2026. Verify weather and individual host safety arrangements before promoting overnight participation.
