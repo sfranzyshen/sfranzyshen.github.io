@@ -32,6 +32,7 @@ image:
 </div>
 <p><a href="{{ '/campout/downloads/video-discussion-guide.pdf' | relative_url }}" download><strong>Download the Video Discussion Guide (PDF) ↓</strong></a></p>
 <p><strong>Campout for Compassion 2026 · Saturday, November 14</strong></p>
+<p><strong>One Night. Many Locations. One Community.</strong> Rather than gathering at one central campsite, we're bringing our community together across many locations for one shared night of awareness, understanding, and compassion.</p>
 <p class="intro"><strong>Start with firsthand experiences.</strong> Listen to people who have experienced homelessness, then explore the assumptions, evidence, and local questions their stories raise. These videos are optional and do not replace an invited local voice. Our <a href="{{ '/campout/understanding-homelessness/' | relative_url }}">myths, facts, and realities guide</a> helps groups follow up.</p>
 <h2>Choosing videos by age</h2>
 <p><strong>Ages 6–10:</strong> The drawing, home-safety, and kindness activities in the <a href="{{ '/campout/resources/activities/' | relative_url }}">activity guide</a> are a better starting point. No video is automatically recommended for young children.</p>
