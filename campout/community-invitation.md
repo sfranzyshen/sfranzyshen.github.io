@@ -18,6 +18,8 @@ image:
 **Saturday, November 14, 2026**  
 *One Night. Many Locations. One Community.*
 
+Rather than gathering at one central campsite, we're bringing our community together across many locations for one shared night of awareness, understanding, and compassion.
+
 **You don't have to camp out to participate!** You can host or join a discussion, invite a speaker, show a video, organize an activity or basic-needs drive, or simply help spread the word. An overnight campout is only one option.
 
 Hello,
