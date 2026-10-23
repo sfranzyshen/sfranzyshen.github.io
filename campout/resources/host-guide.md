@@ -30,7 +30,8 @@ permalink: /campout/resources/host-guide/
 <p><strong>Chico Campout for Compassion 2026</strong> · Saturday, November 14, 2026</p>
 <p class="print-help"><em>This is the online reading edition of the host material. You can use your browser's Print function to save or print it.</em></p>
 <p>COMMUNITY HOST &amp; FACILITATOR GUIDE</p>
-<p>Saturday, November 14, 2026 One night. Many locations. One community.</p>
+<p><strong>Saturday, November 14, 2026 ... One Night. Many Locations. One Community.</strong></p>
+<p>Rather than gathering at one central campsite, we're bringing our community together across many locations for one shared night of awareness, understanding, and compassion.</p>
 <p>A citywide invitation to see the people, learn the facts, change the narrative, and recognize the dignity of our neighbors experiencing homelessness.</p>
 <p>For churches, youth groups, schools, service clubs, neighborhood groups, families, and individuals</p>
 <p>This is an independent Chico awareness initiative ... not a fundraising campaign. Optional food, basic-needs supplies, or gifts go directly to existing local programs.</p>
