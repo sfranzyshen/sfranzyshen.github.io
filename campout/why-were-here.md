@@ -18,6 +18,8 @@ image:
 
 **Campout for Compassion 2026 ... Saturday, November 14, 2026**
 
+**One Night. Many Locations. One Community.** Rather than gathering at one central campsite, we're bringing our community together across many locations for one shared night of awareness, understanding, and compassion.
+
 Chico Campout for Compassion is about **changing the narrative ... one conversation at a time.** Our goal is to help the public look beyond stereotypes, hear people with firsthand experience, learn facts about homelessness, and examine what is happening in our own community.
 
 Too often, our understanding of homelessness comes from what we see on the street, what we hear in the news, or what others tell us. But how much do we really know about the people experiencing homelessness, the circumstances that brought them there, or the barriers preventing them from finding housing?
