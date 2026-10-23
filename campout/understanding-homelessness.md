@@ -15,6 +15,7 @@ permalink: /campout/understanding-homelessness/
 <main class="narrative-guide">
 <p><a href="{{ '/campout/' | relative_url }}">← Back to Campout for Compassion</a></p>
 <h1>Understanding Homelessness ... Myths, Facts &amp; Realities</h1>
+<p><strong>One Night. Many Locations. One Community.</strong> Rather than gathering at one central campsite, we're bringing our community together across many locations for one shared night of awareness, understanding, and compassion.</p>
 <p class="intro"><strong>See the people. Learn the facts. Start a conversation.</strong><br>You do not have to camp out to participate. Use this guide at home, with friends, in a classroom, or at a community gathering.</p>
 <p><a href="{{ '/campout/downloads/understanding-homelessness.pdf' | relative_url }}" download><strong>Download this discussion guide (PDF)</strong></a></p>
 <p>Homelessness is often discussed in slogans, political arguments, or snapshots of encampments. Those snapshots cannot explain every person's life or why housing has become unreachable. This guide asks us to distinguish <strong>what we observe, what we assume, what people tell us, and what reliable evidence supports.</strong></p>
