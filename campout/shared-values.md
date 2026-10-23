@@ -31,6 +31,8 @@ image:
 **Saturday, November 14, 2026**  
 *One Night. Many Locations. One Community.*
 
+Rather than gathering at one central campsite, we're bringing our community together across many locations for one shared night of awareness, understanding, and compassion.
+
 > **We do not have to agree on every policy to begin with shared humanity.**
 
 ## Why We're Here ... A Conversation, Not an Argument
