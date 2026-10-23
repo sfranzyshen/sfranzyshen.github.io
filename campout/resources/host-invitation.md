@@ -19,6 +19,8 @@ image:
 **Saturday, November 14, 2026 ... Chico, California**  
 *One Night. Many Locations. One Community.*
 
+Rather than gathering at one central campsite, we're bringing our community together across many locations for one shared night of awareness, understanding, and compassion.
+
 Every group can host its own supervised gathering to learn about homelessness and listen to neighbors with lived experience. No central fundraiser.
 
 ## Choose your participation
