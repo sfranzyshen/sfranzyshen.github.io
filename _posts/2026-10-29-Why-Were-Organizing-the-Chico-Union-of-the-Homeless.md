@@ -2,7 +2,7 @@
 layout: default
 title: "Why We're Organizing the Chico Union of the Homeless"
 date: 2026-10-29
-permalink: /2026/10/29/chico-homeless-union/
+permalink: /2026/10/29/chico-union-of-the-homeless/
 categories: [Homelessness, Chico, Community]
 tags: [Chico, housing, civil rights, homelessness, organizing, Genesis, housing first]
 image: /images/Chico_Union_of_the_Homeless_Logo.jpg
