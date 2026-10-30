@@ -1,16 +1,21 @@
 ---
 layout: default
-title: "Why We're Organizing a Chico Homeless Union"
+title: "Why We're Organizing the Chico Union of the Homeless"
 date: 2026-10-29
 permalink: /2026/10/29/chico-homeless-union/
 categories: [Homelessness, Chico, Community]
 tags: [Chico, housing, civil rights, homelessness, organizing, Genesis, housing first]
+image: /images/Chico_Union_of_the_Homeless_Logo.jpg
 description: "An effort to organize people experiencing homelessness in Chico around three initial demands ... an end to criminalization, a city housing and homelessness commission, and community management of Genesis."
 ---
 
+![Proposed logo for the Chico Union of the Homeless](/images/Chico_Union_of_the_Homeless_Logo.jpg)
+
+*Proposed organizing logo ... subject to founding-member approval.*
+
 **Homelessness is a housing problem. It is a policy failure, not a personal failure.**
 
-I'm working to help organize a **Chico Homeless Union**, modeled in part on the grassroots organizing taking place in [Sacramento](https://sacramentohomelessunion.org/) and [Berkeley](https://www.berkeleyhomelessunion.org/).
+I'm working to help organize the **Chico Union of the Homeless**, modeled in part on the grassroots organizing taking place in [Sacramento](https://sacramentohomelessunion.org/) and [Berkeley](https://www.berkeleyhomelessunion.org/).
 
 Why a union? Because people experiencing homelessness in Chico have been blamed and bullied for a housing crisis they did not create. Now, with proposed changes to Chico's camping and public-nuisance ordinances, they face the threat of more punishment for trying to survive when they have nowhere else to go.
 
@@ -46,7 +51,7 @@ That is a proposed change in management, not a claim that a transfer has already
 
 We've prepared a **draft 13-page founding and recognition packet** to help start the conversation. It contains proposed articles of association, bylaws, a founding platform, meeting records, membership and officer forms, and steps for seeking appropriate recognition.
 
-**[Read or download the Chico Homeless Union Founding & Recognition Packet (PDF)](/images/Chico_Homeless_Union_Founding_Packet_DRAFT.pdf)**
+**[Read or download the Chico Union of the Homeless Founding & Recognition Packet (PDF)](/images/Chico_Union_of_the_Homeless_Founding_Packet_DRAFT.pdf)**
 
 The word **DRAFT** matters. The proposed union has **not yet been formally constituted, adopted these documents, registered with California, or become an official chapter of any national organization**. Those decisions belong to its founding members, especially people directly affected by homelessness.
 
