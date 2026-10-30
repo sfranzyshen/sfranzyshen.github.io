@@ -5,6 +5,7 @@ date: 2026-10-30
 permalink: /2026/10/30/a-conversation-not-an-argument-how-chico-governs-its-future/
 categories: [Homelessness, Chico, Housing, Community]
 tags: [Chico, affordable housing, Housing First, Rob Berry, public accountability, voluntary treatment, homelessness]
+image: /images/put_housing_first_civic_dialogue_social.jpg
 description: "A constructive response to Rob Berry's How Chico Governs Its Future, examining common ground, housing affordability, dignity, voluntary treatment, and how Chico measures success."
 ---
 
