@@ -1,116 +1,137 @@
 ---
 layout: default
-title: "CHICO ... COMMON GROUND WITH THE CHAMBER, BUT SOME HARD QUESTIONS BEFORE NOVEMBER 17"
+title: "Finding Common Ground on Chico's Housing Crisis"
 date: 2026-11-05
 permalink: /2026/11/05/chico-chamber-common-ground-and-questions/
 categories: [Chico, Housing, Homelessness, Community]
-tags: [Chico, Chamber of Commerce, Unhoused Strategic Plan, permanent supportive housing, housing, homelessness, City Council, November 17]
-description: "A response to the Chico Chamber of Commerce's comments on the Draft Unhoused Strategic Plan, the areas where we agree, and questions about enforcement before the November 17 City Council meeting."
+tags: [Chico, Chamber of Commerce, Unhoused Strategic Plan, housing, homelessness, Housing First, City Council]
+description: "Where my concerns and the Chico Chamber of Commerce's comments on the draft homelessness plan overlap, where we disagree, and why working for all Chicoans matters."
 ---
 
-The Chico Chamber of Commerce has weighed in on the City's proposed **Unhoused Strategic Plan (2027–2031)**. After reading the Chamber's four-page letter, I want to say something that may surprise a few people.
+I've been reading the Chico Chamber of Commerce's response to the City's proposed 2027–2031 Unhoused Strategic Plan.
 
-**THERE IS QUITE A BIT WE AGREE ON!**
+There are several points in their letter that I agree with, and a few where we clearly have different ideas about how to accomplish the same goals.
 
-The Chamber supports the overall direction of the City's plan, including a return to camping enforcement after the *Warren v. City of Chico* settlement expires. That's where I have serious concerns.
+That's fine.
 
-But before we get to the disagreements, let's recognize the common ground.
+I've never been against the Chamber of Commerce, local businesses, churches, nonprofits, or any other organization working to improve Chico.
 
-## The Chamber makes an important point about housing
+**As long as we're working to improve Chico for ALL Chicoans ... I'm willing to work with anyone.**
 
-One statement in the letter jumped out at me:
+And that includes people experiencing homelessness.
 
-> The next dollar should go toward permanent supportive housing and successful exits from shelter, not more emergency capacity.
+## Where We Agree
 
-**I COULDN'T AGREE MORE!**
+The Chamber raises several concerns that I've also been raising in my own reports and communications with the City Council.
 
-This is something I have been asking Chico to focus on for a long time.
+**We need better goals and measurable outcomes.**
 
-Emergency shelters can save lives. The people working in those shelters deserve recognition. But shelter is not the same thing as permanent housing, and counting the number of people who pass through a shelter is not the same as counting how many people actually get housed.
+The City's proposed five-year plan calls for a 25% reduction in unsheltered homelessness by 2031. The Chamber wants more ambitious targets.
 
-I also appreciate the Chamber calling for:
+I agree that the current goals aren't enough.
 
-- **Measurable outcomes and better data**, so we can tell what is working.
-- **Public accountability for staffing, costs, and taxpayer dollars.**
-- **More involvement from CHAT, Safe Space, businesses, churches, and other community partners.**
-- **Real backup options when shelters are full**, instead of pretending an unavailable bed is a solution.
-- **Projects that create lasting housing**, including permanent supportive housing and conversions of existing properties.
+But I want us to measure something more important than how many people are no longer counted on the streets.
 
-These are not partisan goals. They're community goals. And the Chamber's willingness to help organize people and resources is welcome.
+How many people have actually moved into permanent housing? How many remain housed? How much are we spending to accomplish those outcomes?
 
-## Where I question the Chamber's approach ... enforcement
+**We need more permanent supportive housing.**
 
-The letter also asks the City to state clearly that it intends to return to enforcing its prohibition on camping in public places after the Warren settlement expires on **January 14, 2027**.
+The Chamber identifies a shortage of permanent supportive housing in Butte County and recommends directing additional investment toward permanent housing and successful exits from shelter.
 
-It recommends a pre-enforcement process that includes a shelter assessment, an assigned bed, possible reunification travel, and **"clear consequences if shelter and services are refused."**
+Absolutely!
 
-That last part deserves a much more serious conversation.
+I've been asking the City to address its documented shortage of affordable housing for years.
 
-**What exactly are those consequences?**
+We cannot continue building systems to manage homelessness without creating enough housing to actually end it.
 
-What happens when no shelter bed is available?
+**We need options when shelters are full or don't meet people's needs.**
 
-What happens when the bed being offered is not safe, accessible, or realistic for the person who needs it? What about couples, pets, disabilities, or other circumstances the shelter cannot accommodate?
+The Chamber calls for temporary alternatives developed with private and faith-based partners when shelter beds aren't available.
 
-And why should someone be punished for declining a particular service or treatment program?
+I've been advocating for more interim sheltering options, including safe places to sleep, tiny houses, and low-barrier alternatives.
 
-**Refusing one particular shelter is not the same thing as refusing help.**
+Organizations like North State Shelter Team, Safe Space, and others have a role to play.
 
-I believe housing should come first, supportive services should be available, and participation in those services should be voluntary. Everyone deserves a safe place to sleep ... no matter what.
+We need more options ... not fewer.
 
-I want clean, safe, and accessible public spaces too. I live here. We all share this community.
+**We need more community participation.**
 
-But **moving someone along does not create a home for them**. Enforcement may change where people are counted or seen without actually reducing the number of people who need housing.
+The Chamber specifically recommends including CHAT and Safe Space in the City's list of partners.
 
-## Let's measure people housed ... not just people counted
+I agree.
 
-The City's draft sets a headline goal of reducing **unsheltered homelessness by at least 25% by 2031**.
+And I'd expand that invitation to additional community organizations, service providers, housing professionals, and, most importantly, people with lived experience of homelessness.
 
-The Chamber wants to go further, proposing a **25% reduction in total homelessness by the 2027 Point-in-Time count**, from 1,065 to about 800 people, while increasing the sheltered share from 66% to 80%.
+I've also proposed establishing a City Commission on Housing and Homelessness so this issue receives ongoing public attention, accountability, and community involvement.
 
-Those are different measures and different timelines.
+There is no reason the business community shouldn't be part of that conversation.
 
-There's nothing wrong with ambitious targets. But a lower count, by itself, doesn't tell us whether people obtained permanent housing, moved away, were temporarily sheltered, or simply weren't counted.
+## Where We Still Disagree
 
-I want to see the numbers that answer the real questions:
+The Chamber's letter supports returning to enforcement of camping restrictions after the Warren settlement expires.
 
-**How many people moved into permanent housing? How many stayed housed? How many returned to homelessness? And what did those outcomes cost?**
+That's where I have a fundamental disagreement.
 
-In the housing-crisis report I submitted to the Council on November 3, I also asked the City to examine its longer-term housing record. Chico met only about **17.6% of its low-income RHNA allocation in 2007–2014** and **30.2% in 2014–2022**, while exceeding its above-moderate-income allocation in the latter cycle.
+**We cannot criminalize people for having nowhere to go.**
 
-These historical planning figures deserve a place in a conversation about why so many people cannot afford a home here.
+An offer of a shelter bed is not necessarily an accessible or workable solution for every person.
 
-We cannot separate homelessness policy from housing policy.
+Refusing one particular shelter does not mean someone is refusing help.
 
-## Five things I want to see in this plan
+I also disagree with making treatment, sobriety, or participation in services a condition of receiving housing.
 
-1. **Measurable permanent-housing goals.**
-2. **More safe, low-barrier sheltering options, including tiny homes.**
-3. **Accountability for our tax dollars and real housing outcomes.**
-4. **A City Commission on Housing and Homelessness.**
-5. **Independent review by outside professionals with proven expertise in housing and homelessness.**
+Housing First means housing first ... everything else second.
 
-We can recognize legitimate concerns from residents and businesses without criminalizing people who have nowhere appropriate to go.
+Services should be available, accessible, and voluntary.
 
-And we can support the Chamber's permanent-housing recommendations while still asking tough questions about enforcement.
+And while the Chamber raises legitimate questions about costs and accountability, I believe we must be just as careful about protecting people's rights, belongings, privacy, and dignity.
 
-**We don't have to agree on everything to work together.**
+Those disagreements deserve discussion. They don't prevent us from working together on the things we agree need to happen.
 
-## November 17 ... this conversation is not over
+## The Business Community Has a Role to Play
 
-The **Chico City Council is scheduled to meet Tuesday, November 17, 2026, at 6 PM**, at City Council Chambers, 421 Main Street. The City has said the draft plan is expected to be considered at that meeting. Check the official agenda when it is posted for the exact item and any proposed action.
+Businesses need customers, employees, accessible streets, and safe neighborhoods.
 
-The Chamber also announced a **members' advocacy meeting with City staff that morning, 7:30–8:30 AM**, at Build with Ferguson, 402 Otterson Drive, Suite 100. Anyone interested in that morning discussion should check participation details with the Chamber.
+People experiencing homelessness need safe places to sleep and opportunities to obtain permanent housing.
 
-I encourage people to read the plan, ask questions, and speak up before a decision is made.
+These aren't mutually exclusive goals.
 
-- [Read the City's Draft Unhoused Strategic Plan](https://chicoca.gov/City-Services/Housing--Homelessness/Unhoused-Strategic-Plan/)
-- [Find City Council agendas, meeting details, and recordings](https://chico-ca.granicus.com/ViewPublisher.php?view_id=2)
-- [Read about the City's public-input process](https://chicoca.gov/City-Services/Housing--Homelessness/Unhoused-Strategic-Plan/Community-Input/)
-- Send public comments to **unhoused@chicoca.gov**.
+In fact, housing affordability affects the very workforce local businesses depend on.
 
-I welcome the Chamber's willingness to participate. I'd like to see that turn into a conversation about **how we actually get more people permanently housed** ... not just how quickly we resume enforcement.
+The people struggling to afford rent in Chico include workers, seniors, people with disabilities, families, and people who have lived and worked in this community for decades.
 
-**HOUSING IS THE ISSUE ... HOMELESSNESS IS THE OUTCOME!**
+When someone loses their housing, they don't stop being a member of our community.
 
-**YOU CANNOT ORDINANCE YOUR WAY OUT OF A HOUSING CRISIS!**
+**They're still Chicoans.**
+
+I would welcome the opportunity to work with the Chamber and other community organizations on expanding housing opportunities, supporting interim sheltering projects, finding additional funding, and improving accountability.
+
+But those efforts need to serve the whole community, not just move the visible consequences of homelessness somewhere else.
+
+## Let's Work on What We Agree On
+
+I've said repeatedly that the housing crisis isn't a partisan issue.
+
+And I don't believe solving it requires everyone to agree on every policy, every program, or every approach.
+
+We can disagree about enforcement while agreeing that we need more permanent housing.
+
+We can disagree about treatment requirements while agreeing that people need access to services.
+
+We can have different priorities while still working toward measurable improvements for the community.
+
+What matters is whether we're willing to sit down, examine the facts, listen to one another, and actually accomplish something.
+
+I have no interest in making enemies out of people or organizations simply because we see certain issues differently.
+
+I'm interested in solutions.
+
+And I'm willing to work with anyone who shares that objective.
+
+**Housing is the issue ... homelessness is the outcome.**
+
+Let's put our differences aside where we can, be clear about them where we can't, and get to work on solutions that benefit ALL Chicoans.
+
+Scotty Franzyshen  
+*Building • Fixing • Serving*  
+[sfranzyshen.org](https://www.sfranzyshen.org)
