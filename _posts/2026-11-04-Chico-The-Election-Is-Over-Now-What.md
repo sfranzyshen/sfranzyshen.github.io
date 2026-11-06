@@ -3,6 +3,7 @@ layout: default
 title: "CHICO ... THE ELECTION IS OVER. NOW WHAT?"
 date: 2026-11-04
 permalink: /2026/11/04/chico-the-election-is-over-now-what/
+image: "/images/Purple%20City%20of%20Chico%20Emblem.png"
 categories: [Chico, Housing, Homelessness, Community]
 tags: [Chico, elections, accountability, housing, affordable housing, homelessness, Campout for Compassion]
 description: "After Chico's election, a call for public accountability, real housing solutions, and a community willing to pay attention ... including the story of a longtime neighbor priced out of town."
