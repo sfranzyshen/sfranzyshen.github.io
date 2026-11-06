@@ -112,7 +112,9 @@ It's about addressing the underlying problem instead of continually managing the
 
 I've submitted my research and questions to the City Council. I hope the Town Hall gives our community an opportunity to have a serious conversation about what happens next.
 
-**My November 3 submission:** *Chico's Housing Crisis ... An Update Before Final Adoption.*
+
+**Read my full report:** [Chico's Housing Crisis ... Original Eight Pages Plus November 3 Update (PDF)]({{ '/images/Chicos_Housing_Crisis_Original_Eight_Pages_Plus_November_3_Update.pdf' | relative_url }})
+
 
 Scotty Franzyshen  
 *Building • Fixing • Serving*  
