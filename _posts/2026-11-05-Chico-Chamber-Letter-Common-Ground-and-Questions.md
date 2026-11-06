@@ -10,6 +10,8 @@ description: "Where my concerns and the Chico Chamber of Commerce's comments on 
 
 I've been reading the Chico Chamber of Commerce's response to the City's proposed 2027–2031 Unhoused Strategic Plan.
 
+**Read the original document:** [Chico Chamber of Commerce letter to the City on the Draft Unhoused Strategic Plan (PDF)](https://drive.google.com/file/d/1EhaJSdCNKsWLJ7-RMXe3i9JOAZDITAUP/view).
+
 There are several points in their letter that I agree with, and a few where we clearly have different ideas about how to accomplish the same goals.
 
 That's fine.
