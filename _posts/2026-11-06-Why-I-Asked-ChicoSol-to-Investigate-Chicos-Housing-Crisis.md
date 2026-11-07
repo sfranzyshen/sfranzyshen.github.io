@@ -3,6 +3,7 @@ layout: default
 title: "Why I Asked ChicoSol to Investigate Chico's Housing Crisis"
 date: 2026-11-06
 permalink: /2026/11/06/why-i-asked-chicosol-to-investigate-chicos-housing-crisis/
+image: "/images/Investigating%20Chico%E2%80%99s%20Housing%20Crisis.png"
 categories: [Chico, Housing, Homelessness, Community]
 tags: [ChicoSol, affordable housing, RHNA, homelessness, accountability, Jesus Center, CalAIM, Housing First, Chico City Council]
 description: "I sent ChicoSol a documented investigative story tip asking how Chico's housing policies, spending, providers, and enforcement priorities affect lasting housing outcomes."
