@@ -17,6 +17,21 @@ permalink: /campout/resources/activities/
 <p><strong>One Night. Many Locations. One Community.</strong> Rather than gathering at one central campsite, we're bringing our community together across many locations for one shared night of awareness, understanding, and compassion.</p>
 <p style="background:#e9f5f5;border-left:4px solid #00717c;padding:.75rem 1rem;"><strong>You don't have to camp out to participate!</strong> Host or join a discussion, show a video, invite a speaker, help with basic-needs giving, or share the event. Overnight camping is optional.</p>
 <p><strong>Our purpose is dialogue, not agreement.</strong> These activities are recommended, never required. <a href="{{ '/campout/why-were-here/' | relative_url }}">Read why we're here</a>.</p>
+
+<section id="family-guide" style="background:#fff8ee;border-left:4px solid #e96b36;padding:1rem 1.15rem;margin:1.25rem 0;">
+<h2 style="margin-top:0;">For families ... How to Talk to Kids About Homelessness</h2>
+<p><strong>Featured family resource for Conversation at Creekside, Saturday, November 14:</strong> <a href="{{ '/images/AtlantaMission_HowToTalkToKidsAboutHomelessness.pdf' | relative_url }}"><strong>How to Talk to Kids About Homelessness (Atlanta Mission PDF)</strong></a>.</p>
+<p>Atlanta Mission created this accessible, 12-page guide for parents, caregivers, teachers, and other adults. It offers ways to answer children's questions honestly and with empathy, without assuming we know a person's circumstances.</p>
+<ul>
+  <li><strong>Ages 4–7:</strong> Simple, concrete explanations about someone not having a home right now, and how everyone deserves kindness.</li>
+  <li><strong>Ages 8–12:</strong> Conversations about why someone may lose housing, how hard circumstances can overlap, and how to respond fairly.</li>
+  <li><strong>Ages 13–18:</strong> Questions about families experiencing homelessness, community conditions, systems, and possible solutions.</li>
+</ul>
+<p>The guide also includes person-first language suggestions, answers to common questions about shelters and employment, a family's story, and age-appropriate ways to help through kindness, volunteering, and donations.</p>
+<p class="small"><strong>Source:</strong> Atlanta Mission. This is an outside educational resource, not a Chico-specific guide or a statement of endorsement or partnership. Its local service examples refer to Atlanta; families in Chico can use the conversation guidance alongside our local educational activities below.</p>
+<p><a href="{{ '/images/AtlantaMission_HowToTalkToKidsAboutHomelessness.pdf' | relative_url }}"><strong>Read the family conversation guide (PDF) →</strong></a></p>
+</section>
+
 <div class="resource-policy" style="background:#eff7f8;border-left:4px solid #006474;padding:.85rem 1rem;margin:1rem 0;">
 <strong>Recommended Resources ... Not Required</strong>
 <p>Our educational materials reflect a <strong>“shelter first” and lowest-barrier approach</strong> to addressing homelessness. They are recommended resources, not required material. If your group chooses not to use them, your participation is still encouraged.</p>
