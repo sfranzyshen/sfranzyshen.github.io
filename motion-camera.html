@@ -39,7 +39,7 @@
 <body>
 <main>
   <h1>Local Motion Camera</h1>
-  <p class="lead">Your webcam feed stays on this computer. When armed, motion saves one or two JPG images into the folder you choose.</p>
+  <p class="lead">Your webcam feed stays on this computer. When armed, motion saves one or two JPG images into a <strong>Motion Camera</strong> folder it creates for you.</p>
   <div class="layout">
     <section>
       <video id="video" autoplay muted playsinline></video>
@@ -50,7 +50,7 @@
     <section>
       <div class="controls">
         <button id="cameraButton" class="primary">Start Camera</button>
-        <button id="folderButton" disabled>Choose Save Folder</button>
+        <button id="folderButton" disabled>Choose Parent Folder</button>
         <button id="armButton" disabled>Arm Detection</button>
         <button id="snapshotButton" disabled>Test Snapshot</button>
         <label>Motion sensitivity
@@ -64,7 +64,7 @@
           <select id="cooldown"><option value="3000">3 seconds</option><option value="8000" selected>8 seconds</option><option value="15000">15 seconds</option><option value="30000">30 seconds</option></select>
         </label>
       </div>
-      <p class="notice"><strong>Keep this page open and the computer awake.</strong> Click the folder button once and approve access. After that, this page writes captures into that chosen folder without asking each time.</p>
+      <p class="notice"><strong>Keep this page open and the computer awake.</strong> Choose <strong>Pictures</strong> when asked. The app will create and use <strong>Pictures\Motion Camera</strong>, avoiding a current Chrome subfolder-picker bug.</p>
     </section>
   </div>
   <p class="notice">This file can be opened directly from your computer in Chrome or Edge. It needs camera permission and a browser that supports choosing a local folder. GitHub Pages also works because it is served over HTTPS.</p>
@@ -169,10 +169,10 @@
       const chosenFolder = await window.showDirectoryPicker({ mode: 'readwrite', startIn: 'pictures' });
       const permission = await chosenFolder.requestPermission({ mode: 'readwrite' });
       if (permission !== 'granted') throw new Error('Chrome did not grant write permission for that folder. Choose a normal folder inside Pictures, Documents, or Downloads.');
-      directoryHandle = chosenFolder;
-      folderButton.textContent = `Saving to: ${directoryHandle.name}`;
+      directoryHandle = await chosenFolder.getDirectoryHandle('Motion Camera', { create: true });
+      folderButton.textContent = `Saving in: ${chosenFolder.name}\\Motion Camera`;
       armButton.disabled = false;
-      say(`Save folder selected: ${directoryHandle.name}. Write permission verified. You can arm detection now.`, 'ok');
+      say(`Saving in ${chosenFolder.name}\\Motion Camera. Write permission verified. You can arm detection now.`, 'ok');
     } catch (error) {
       directoryHandle = undefined;
       const detail = error.name === 'AbortError'
