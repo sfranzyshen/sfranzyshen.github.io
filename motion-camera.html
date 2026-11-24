@@ -29,7 +29,7 @@
     .meter { margin-top:12px; } .meter div { height:12px; width:100%; border-radius:6px; background:#10171e; overflow:hidden; }
     .meter span { display:block; height:100%; width:0%; background:var(--ok); transition:width .1s; }
     .small { color:var(--muted); font-size:.88rem; }
-    .recent { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-top:12px; }
+    .recent { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:8px; margin-top:12px; max-height:360px; overflow-y:auto; padding-right:4px; align-content:start; }
     .recent img { width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:6px; background:#10171e; }
     .notice { margin-top:18px; color:var(--muted); font-size:.92rem; }
     kbd { border:1px solid #677685; border-bottom-width:2px; border-radius:4px; padding:0 4px; color:var(--ink); }
@@ -98,6 +98,8 @@
   const photo = document.querySelector('#photoCanvas');
   const analysisContext = analysis.getContext('2d', { willReadFrequently: true });
   const photoContext = photo.getContext('2d');
+  const preview = document.createElement('canvas');
+  const previewContext = preview.getContext('2d');
   let stream, directoryHandle, armed = false, previousFrame, scanTimer, lastEvent = 0, capturing = false, armingTimer, armingEndsAt;
 
   function say(message, kind = '') { status.textContent = message; status.className = `status ${kind}`; }
@@ -135,14 +137,16 @@
     updateCountdown();
     armingTimer = window.setInterval(updateCountdown, 250);
   }
-  function drawPreview(blob) {
+  async function drawPreview() {
+    const width = 320;
+    const height = Math.max(1, Math.round(width * photo.height / photo.width));
+    preview.width = width; preview.height = height;
+    previewContext.drawImage(photo, 0, 0, width, height);
+    const blob = await new Promise(resolve => preview.toBlob(resolve, 'image/jpeg', 0.72));
+    if (!blob) return;
     const image = document.createElement('img');
     image.alt = 'Recent motion capture'; image.src = URL.createObjectURL(blob);
     recent.prepend(image);
-    while (recent.children.length > 3) {
-      const oldest = recent.lastElementChild;
-      URL.revokeObjectURL(oldest.src); oldest.remove();
-    }
   }
   function clearDisplayedSnapshots() {
     for (const image of recent.querySelectorAll('img')) URL.revokeObjectURL(image.src);
@@ -177,7 +181,7 @@
       const fileHandle = await directoryHandle.getFileHandle(filename, { create: true });
       const writable = await fileHandle.createWritable();
       await writable.write(blob); await writable.close();
-      drawPreview(blob); say(`Saved ${filename}`, 'ok');
+      await drawPreview(); say(`Saved ${filename}`, 'ok');
     } catch (error) {
       console.error(error); say(`Could not save image: ${error.message}`, 'bad'); setArmed(false);
     } finally { capturing = false; }
