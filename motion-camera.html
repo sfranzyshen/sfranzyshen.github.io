@@ -104,6 +104,28 @@
 
   function say(message, kind = '') { status.textContent = message; status.className = `status ${kind}`; }
   function fileStamp() { return new Date().toISOString().replace(/[:.]/g, '-'); }
+  function stampPhoto(reason) {
+    const label = reason === 'test' ? 'TEST SNAPSHOT' : 'MOTION';
+    const timestamp = new Intl.DateTimeFormat(undefined, {
+      year: 'numeric', month: '2-digit', day: '2-digit',
+      hour: '2-digit', minute: '2-digit', second: '2-digit'
+    }).format(new Date());
+    const text = `${label}  ${timestamp}`;
+    const fontSize = Math.max(18, Math.round(photo.width / 45));
+    const padding = Math.round(fontSize * .55);
+    photoContext.save();
+    photoContext.font = `700 ${fontSize}px system-ui, sans-serif`;
+    photoContext.textBaseline = 'middle';
+    const boxWidth = Math.ceil(photoContext.measureText(text).width) + padding * 2;
+    const boxHeight = fontSize + padding * 2;
+    const x = Math.round(photo.width * .02);
+    const y = photo.height - Math.round(photo.height * .02) - boxHeight;
+    photoContext.fillStyle = 'rgba(0, 0, 0, .72)';
+    photoContext.fillRect(x, y, boxWidth, boxHeight);
+    photoContext.fillStyle = '#ffffff';
+    photoContext.fillText(text, x + padding, y + boxHeight / 2);
+    photoContext.restore();
+  }
   function setArmed(next) {
     armed = next;
     armButton.textContent = armed ? 'Disarm Detection' : 'Arm Detection';
@@ -175,6 +197,7 @@
     try {
       photo.width = video.videoWidth; photo.height = video.videoHeight;
       photoContext.drawImage(video, 0, 0, photo.width, photo.height);
+      stampPhoto(reason);
       const blob = await new Promise(resolve => photo.toBlob(resolve, 'image/jpeg', 0.9));
       if (!blob) throw new Error('Could not create the image.');
       const filename = `motion-${fileStamp()}-${reason}.jpg`;
