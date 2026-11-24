@@ -53,6 +53,11 @@
         <button id="folderButton" disabled>Choose Parent Folder</button>
         <button id="armButton" disabled>Arm Detection</button>
         <button id="snapshotButton" disabled>Test Snapshot</button>
+        <button id="clearPreviewButton" disabled>Clear Displayed Snapshots</button>
+        <button id="deleteCapturesButton" disabled>Delete Saved Captures</button>
+        <label>Arming delay
+          <select id="armingDelay"><option value="0">No delay</option><option value="5">5 seconds</option><option value="10" selected>10 seconds</option><option value="20">20 seconds</option><option value="30">30 seconds</option><option value="60">1 minute</option></select>
+        </label>
         <label>Motion sensitivity
           <input id="sensitivity" type="range" min="0.5" max="15" value="3" step="0.5">
           <span class="small"><span id="sensitivityValue">3.0</span>% of sampled pixels must change</span>
@@ -79,6 +84,9 @@
   const folderButton = document.querySelector('#folderButton');
   const armButton = document.querySelector('#armButton');
   const snapshotButton = document.querySelector('#snapshotButton');
+  const clearPreviewButton = document.querySelector('#clearPreviewButton');
+  const deleteCapturesButton = document.querySelector('#deleteCapturesButton');
+  const armingDelay = document.querySelector('#armingDelay');
   const sensitivity = document.querySelector('#sensitivity');
   const sensitivityValue = document.querySelector('#sensitivityValue');
   const captureCount = document.querySelector('#captureCount');
@@ -90,7 +98,7 @@
   const photo = document.querySelector('#photoCanvas');
   const analysisContext = analysis.getContext('2d', { willReadFrequently: true });
   const photoContext = photo.getContext('2d');
-  let stream, directoryHandle, armed = false, previousFrame, scanTimer, lastEvent = 0, capturing = false;
+  let stream, directoryHandle, armed = false, previousFrame, scanTimer, lastEvent = 0, capturing = false, armingTimer, armingEndsAt;
 
   function say(message, kind = '') { status.textContent = message; status.className = `status ${kind}`; }
   function fileStamp() { return new Date().toISOString().replace(/[:.]/g, '-'); }
@@ -100,10 +108,62 @@
     armButton.classList.toggle('armed', armed);
     say(armed ? 'Detection is armed. Watching for movement ...' : 'Detection is disarmed.', armed ? 'ok' : '');
   }
+  function cancelArming(message = 'Arming canceled.') {
+    if (armingTimer) window.clearInterval(armingTimer);
+    armingTimer = undefined; armingEndsAt = undefined;
+    if (!armed) {
+      armButton.textContent = 'Arm Detection';
+      armButton.classList.remove('armed');
+      say(message);
+    }
+  }
+  function beginArming() {
+    if (armed) { setArmed(false); return; }
+    if (armingTimer) { cancelArming(); return; }
+    const delay = Number(armingDelay.value) * 1000;
+    if (!delay) { setArmed(true); return; }
+    armingEndsAt = Date.now() + delay;
+    const updateCountdown = () => {
+      const seconds = Math.max(0, Math.ceil((armingEndsAt - Date.now()) / 1000));
+      if (!seconds) {
+        window.clearInterval(armingTimer); armingTimer = undefined; armingEndsAt = undefined;
+        setArmed(true); return;
+      }
+      armButton.textContent = `Cancel Arming (${seconds}s)`;
+      say(`Arming in ${seconds} second${seconds === 1 ? '' : 's'} ... leave the room now.`);
+    };
+    updateCountdown();
+    armingTimer = window.setInterval(updateCountdown, 250);
+  }
   function drawPreview(blob) {
     const image = document.createElement('img');
     image.alt = 'Recent motion capture'; image.src = URL.createObjectURL(blob);
-    recent.prepend(image); while (recent.children.length > 3) recent.lastElementChild.remove();
+    recent.prepend(image);
+    while (recent.children.length > 3) {
+      const oldest = recent.lastElementChild;
+      URL.revokeObjectURL(oldest.src); oldest.remove();
+    }
+  }
+  function clearDisplayedSnapshots() {
+    for (const image of recent.querySelectorAll('img')) URL.revokeObjectURL(image.src);
+    recent.replaceChildren();
+    say('Displayed snapshots cleared. Saved camera files were not changed.', 'ok');
+  }
+  async function deleteSavedCaptures() {
+    if (!directoryHandle) return;
+    if (!window.confirm('Delete every JPG capture created by this camera in the Motion Camera folder? This cannot be undone.')) return;
+    deleteCapturesButton.disabled = true;
+    try {
+      let count = 0;
+      for await (const [name, entry] of directoryHandle.entries()) {
+        if (entry.kind === 'file' && /^motion-.*\.jpg$/i.test(name)) {
+          await directoryHandle.removeEntry(name); count++;
+        }
+      }
+      say(count ? `Deleted ${count} saved camera capture${count === 1 ? '' : 's'}.` : 'There were no saved camera captures to delete.', 'ok');
+    } catch (error) {
+      console.error(error); say(`Could not delete saved captures: ${error.message}`, 'bad');
+    } finally { deleteCapturesButton.disabled = false; }
   }
   async function saveCapture(reason = 'motion') {
     if (!directoryHandle || !video.videoWidth || capturing) return;
@@ -157,7 +217,7 @@
       stream = await navigator.mediaDevices.getUserMedia({ video: { width: { ideal: 1280 }, height: { ideal: 720 }, frameRate: { ideal: 10, max: 15 } }, audio: false });
       video.srcObject = stream; await video.play();
       cameraButton.textContent = 'Camera Running'; cameraButton.disabled = true;
-      folderButton.disabled = false; snapshotButton.disabled = false;
+      folderButton.disabled = false; snapshotButton.disabled = false; clearPreviewButton.disabled = false;
       scanTimer = window.setInterval(checkMotion, 125);
       say('Camera is running. Choose a save folder next.', 'ok');
     } catch (error) { say(`Camera unavailable: ${error.message}`, 'bad'); }
@@ -171,7 +231,7 @@
       if (permission !== 'granted') throw new Error('Chrome did not grant write permission for that folder. Choose a normal folder inside Pictures, Documents, or Downloads.');
       directoryHandle = await chosenFolder.getDirectoryHandle('Motion Camera', { create: true });
       folderButton.textContent = `Saving in: ${chosenFolder.name}\\Motion Camera`;
-      armButton.disabled = false;
+      armButton.disabled = false; deleteCapturesButton.disabled = false;
       say(`Saving in ${chosenFolder.name}\\Motion Camera. Write permission verified. You can arm detection now.`, 'ok');
     } catch (error) {
       directoryHandle = undefined;
@@ -183,10 +243,12 @@
       folderButton.disabled = false;
     }
   });
-  armButton.addEventListener('click', () => setArmed(!armed));
+  armButton.addEventListener('click', beginArming);
   snapshotButton.addEventListener('click', () => saveCapture('test'));
+  clearPreviewButton.addEventListener('click', clearDisplayedSnapshots);
+  deleteCapturesButton.addEventListener('click', deleteSavedCaptures);
   sensitivity.addEventListener('input', () => sensitivityValue.textContent = Number(sensitivity.value).toFixed(1));
-  window.addEventListener('beforeunload', () => { if (scanTimer) clearInterval(scanTimer); stream?.getTracks().forEach(track => track.stop()); });
+  window.addEventListener('beforeunload', () => { if (scanTimer) clearInterval(scanTimer); if (armingTimer) clearInterval(armingTimer); clearDisplayedSnapshots(); stream?.getTracks().forEach(track => track.stop()); });
 })();
 </script>
 </body>
