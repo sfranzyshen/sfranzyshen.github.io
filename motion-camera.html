@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Local Motion Camera</title>
+  <style>
+    :root { color-scheme: dark; --bg:#10151b; --panel:#1a222c; --line:#394756; --ink:#f4f7fa; --muted:#aebbc7; --ok:#45d69a; --warn:#ffc85c; --bad:#ff7979; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font-family:system-ui,-apple-system,"Segoe UI",sans-serif; line-height:1.4; }
+    main { max-width:980px; margin:0 auto; padding:26px 18px 46px; }
+    h1 { margin:0 0 4px; font-size:clamp(1.7rem,4vw,2.4rem); }
+    .lead { color:var(--muted); margin:0 0 22px; }
+    .layout { display:grid; grid-template-columns:minmax(0,2fr) minmax(260px,1fr); gap:18px; }
+    section { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:16px; }
+    video { display:block; width:100%; min-height:240px; background:#050709; border-radius:8px; object-fit:contain; }
+    .controls { display:grid; gap:10px; }
+    button, select, input { font:inherit; }
+    button { cursor:pointer; padding:10px 12px; border-radius:7px; border:1px solid #5a6a79; background:#263541; color:var(--ink); font-weight:650; }
+    button:hover:not(:disabled) { background:#334958; }
+    button.primary { background:#18734e; border-color:#289969; }
+    button.primary:hover:not(:disabled) { background:#21865c; }
+    button.armed { background:#963c2f; border-color:#ce5a47; }
+    button:disabled { opacity:.5; cursor:not-allowed; }
+    label { display:grid; gap:5px; color:var(--muted); font-size:.92rem; }
+    input, select { width:100%; padding:8px; border-radius:6px; color:var(--ink); background:#10171e; border:1px solid #526170; }
+    .status { margin-top:12px; padding:10px; border-radius:7px; background:#10171e; border-left:4px solid var(--warn); color:var(--muted); min-height:44px; }
+    .status.ok { border-color:var(--ok); } .status.bad { border-color:var(--bad); }
+    .meter { margin-top:12px; } .meter div { height:12px; width:100%; border-radius:6px; background:#10171e; overflow:hidden; }
+    .meter span { display:block; height:100%; width:0%; background:var(--ok); transition:width .1s; }
+    .small { color:var(--muted); font-size:.88rem; }
+    .recent { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-top:12px; }
+    .recent img { width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:6px; background:#10171e; }
+    .notice { margin-top:18px; color:var(--muted); font-size:.92rem; }
+    kbd { border:1px solid #677685; border-bottom-width:2px; border-radius:4px; padding:0 4px; color:var(--ink); }
+    @media (max-width:720px) { .layout { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Local Motion Camera</h1>
+  <p class="lead">Your webcam feed stays on this computer. When armed, motion saves one or two JPG images into the folder you choose.</p>
+  <div class="layout">
+    <section>
+      <video id="video" autoplay muted playsinline></video>
+      <div class="meter" aria-label="Motion level"><p class="small">Motion level: <strong id="motionValue">0.0%</strong></p><div><span id="motionBar"></span></div></div>
+      <p id="status" class="status">1. Start the camera. 2. Choose a save folder. 3. Arm detection.</p>
+      <div id="recent" class="recent" aria-label="Recent captures"></div>
+    </section>
+    <section>
+      <div class="controls">
+        <button id="cameraButton" class="primary">Start Camera</button>
+        <button id="folderButton" disabled>Choose Save Folder</button>
+        <button id="armButton" disabled>Arm Detection</button>
+        <button id="snapshotButton" disabled>Test Snapshot</button>
+        <label>Motion sensitivity
+          <input id="sensitivity" type="range" min="0.5" max="15" value="3" step="0.5">
+          <span class="small"><span id="sensitivityValue">3.0</span>% of sampled pixels must change</span>
+        </label>
+        <label>Images per motion event
+          <select id="captureCount"><option value="1">One image</option><option value="2" selected>Two images, 1.2 seconds apart</option></select>
+        </label>
+        <label>Wait after an event
+          <select id="cooldown"><option value="3000">3 seconds</option><option value="8000" selected>8 seconds</option><option value="15000">15 seconds</option><option value="30000">30 seconds</option></select>
+        </label>
+      </div>
+      <p class="notice"><strong>Keep this page open and the computer awake.</strong> Click the folder button once and approve access. After that, this page writes captures into that chosen folder without asking each time.</p>
+    </section>
+  </div>
+  <p class="notice">This file can be opened directly from your computer in Chrome or Edge. It needs camera permission and a browser that supports choosing a local folder. GitHub Pages also works because it is served over HTTPS.</p>
+</main>
+<canvas id="analysisCanvas" hidden></canvas>
+<canvas id="photoCanvas" hidden></canvas>
+<script>
+(() => {
+  const video = document.querySelector('#video');
+  const status = document.querySelector('#status');
+  const cameraButton = document.querySelector('#cameraButton');
+  const folderButton = document.querySelector('#folderButton');
+  const armButton = document.querySelector('#armButton');
+  const snapshotButton = document.querySelector('#snapshotButton');
+  const sensitivity = document.querySelector('#sensitivity');
+  const sensitivityValue = document.querySelector('#sensitivityValue');
+  const captureCount = document.querySelector('#captureCount');
+  const cooldown = document.querySelector('#cooldown');
+  const motionValue = document.querySelector('#motionValue');
+  const motionBar = document.querySelector('#motionBar');
+  const recent = document.querySelector('#recent');
+  const analysis = document.querySelector('#analysisCanvas');
+  const photo = document.querySelector('#photoCanvas');
+  const analysisContext = analysis.getContext('2d', { willReadFrequently: true });
+  const photoContext = photo.getContext('2d');
+  let stream, directoryHandle, armed = false, previousFrame, scanTimer, lastEvent = 0, capturing = false;
+
+  function say(message, kind = '') { status.textContent = message; status.className = `status ${kind}`; }
+  function fileStamp() { return new Date().toISOString().replace(/[:.]/g, '-'); }
+  function setArmed(next) {
+    armed = next;
+    armButton.textContent = armed ? 'Disarm Detection' : 'Arm Detection';
+    armButton.classList.toggle('armed', armed);
+    say(armed ? 'Detection is armed. Watching for movement ...' : 'Detection is disarmed.', armed ? 'ok' : '');
+  }
+  function drawPreview(blob) {
+    const image = document.createElement('img');
+    image.alt = 'Recent motion capture'; image.src = URL.createObjectURL(blob);
+    recent.prepend(image); while (recent.children.length > 3) recent.lastElementChild.remove();
+  }
+  async function saveCapture(reason = 'motion') {
+    if (!directoryHandle || !video.videoWidth || capturing) return;
+    capturing = true;
+    try {
+      photo.width = video.videoWidth; photo.height = video.videoHeight;
+      photoContext.drawImage(video, 0, 0, photo.width, photo.height);
+      const blob = await new Promise(resolve => photo.toBlob(resolve, 'image/jpeg', 0.9));
+      if (!blob) throw new Error('Could not create the image.');
+      const filename = `motion-${fileStamp()}-${reason}.jpg`;
+      const fileHandle = await directoryHandle.getFileHandle(filename, { create: true });
+      const writable = await fileHandle.createWritable();
+      await writable.write(blob); await writable.close();
+      drawPreview(blob); say(`Saved ${filename}`, 'ok');
+    } catch (error) {
+      console.error(error); say(`Could not save image: ${error.message}`, 'bad'); setArmed(false);
+    } finally { capturing = false; }
+  }
+  async function motionEvent() {
+    if (capturing || Date.now() - lastEvent < Number(cooldown.value)) return;
+    lastEvent = Date.now();
+    await saveCapture('motion');
+    if (captureCount.value === '2' && armed) {
+      window.setTimeout(() => { if (armed) saveCapture('motion-2'); }, 1200);
+    }
+  }
+  function checkMotion() {
+    if (!video.videoWidth) return;
+    const w = 160, h = Math.max(90, Math.round(w * video.videoHeight / video.videoWidth));
+    if (analysis.width !== w || analysis.height !== h) { analysis.width = w; analysis.height = h; previousFrame = undefined; }
+    analysisContext.drawImage(video, 0, 0, w, h);
+    const now = analysisContext.getImageData(0, 0, w, h).data;
+    if (previousFrame) {
+      let changed = 0, total = 0;
+      for (let i = 0; i < now.length; i += 16) {
+        const oldLight = previousFrame[i] * .299 + previousFrame[i + 1] * .587 + previousFrame[i + 2] * .114;
+        const newLight = now[i] * .299 + now[i + 1] * .587 + now[i + 2] * .114;
+        if (Math.abs(oldLight - newLight) > 28) changed++;
+        total++;
+      }
+      const amount = (changed / total) * 100;
+      motionValue.textContent = `${amount.toFixed(1)}%`;
+      motionBar.style.width = `${Math.min(100, amount * 5)}%`;
+      motionBar.style.background = amount >= Number(sensitivity.value) ? 'var(--bad)' : 'var(--ok)';
+      if (armed && amount >= Number(sensitivity.value)) motionEvent();
+    }
+    previousFrame = new Uint8ClampedArray(now);
+  }
+  cameraButton.addEventListener('click', async () => {
+    try {
+      stream = await navigator.mediaDevices.getUserMedia({ video: { width: { ideal: 1280 }, height: { ideal: 720 }, frameRate: { ideal: 10, max: 15 } }, audio: false });
+      video.srcObject = stream; await video.play();
+      cameraButton.textContent = 'Camera Running'; cameraButton.disabled = true;
+      folderButton.disabled = false; snapshotButton.disabled = false;
+      scanTimer = window.setInterval(checkMotion, 125);
+      say('Camera is running. Choose a save folder next.', 'ok');
+    } catch (error) { say(`Camera unavailable: ${error.message}`, 'bad'); }
+  });
+  folderButton.addEventListener('click', async () => {
+    folderButton.disabled = true;
+    try {
+      if (!window.showDirectoryPicker) throw new Error('Use a current version of Chrome or Edge for folder saving.');
+      const chosenFolder = await window.showDirectoryPicker({ mode: 'readwrite', startIn: 'pictures' });
+      const permission = await chosenFolder.requestPermission({ mode: 'readwrite' });
+      if (permission !== 'granted') throw new Error('Chrome did not grant write permission for that folder. Choose a normal folder inside Pictures, Documents, or Downloads.');
+      directoryHandle = chosenFolder;
+      folderButton.textContent = `Saving to: ${directoryHandle.name}`;
+      armButton.disabled = false;
+      say(`Save folder selected: ${directoryHandle.name}. Write permission verified. You can arm detection now.`, 'ok');
+    } catch (error) {
+      directoryHandle = undefined;
+      const detail = error.name === 'AbortError'
+        ? 'No usable folder was selected. Chrome may reject protected locations. Create and select a normal folder inside Pictures, Documents, or Downloads.'
+        : `Folder was not selected: ${error.message}`;
+      say(detail, 'bad');
+    } finally {
+      folderButton.disabled = false;
+    }
+  });
+  armButton.addEventListener('click', () => setArmed(!armed));
+  snapshotButton.addEventListener('click', () => saveCapture('test'));
+  sensitivity.addEventListener('input', () => sensitivityValue.textContent = Number(sensitivity.value).toFixed(1));
+  window.addEventListener('beforeunload', () => { if (scanTimer) clearInterval(scanTimer); stream?.getTracks().forEach(track => track.stop()); });
+})();
+</script>
+</body>
+</html>
